@@ -76,10 +76,6 @@
             background-color: #3A72C1;
             transform: translateY(-2px);
         }
-        .btn[disabled] {
-            background-color: #cccccc;
-            cursor: not-allowed;
-        }
         .question-card {
             background-color: #F8F8F8;
             padding: 20px;
@@ -165,7 +161,7 @@
             <label for="num-questions">Entrez le nombre de questions :</label>
             <input type="number" id="num-questions" min="1" value="10">
         </div>
-        <button class="btn" onclick="startQuiz()" disabled>Commencer le QCM</button>
+        <button class="btn" onclick="startQuiz()">Commencer le QCM</button>
 
         <form id="quiz-form">
             <div id="questions"></div>
@@ -200,10 +196,6 @@
                 questionsPool = await response.json();
                 console.log('Questions chargées avec succès.');
                 document.getElementById('question-count').textContent = `Nombre de questions disponibles : ${questionsPool.length}`;
-                
-                // Active le bouton une fois les questions chargées
-                document.querySelector('.btn').removeAttribute('disabled');
-
             } catch (error) {
                 console.error('Erreur lors du chargement des questions:', error);
                 document.body.innerHTML = '<h1>Erreur de chargement</h1><p>Impossible de charger les questions. Vérifiez que le fichier questions.json est bien présent.</p>';

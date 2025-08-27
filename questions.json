@@ -1,7 +1,7 @@
 [
   {
     "question": "L'inscription à l'Orias est:",
-    "options": [
+    "option": [
       "Obligatoire uniquement pour les courtiers d'assurance",
       "Obligatoire uniquement pour les agents généraux d'assurance",
       "Obligatoire pour tous les intermédiaires en assurance",
@@ -11,7 +11,7 @@
   },
   {
     "question": "Quel est le mécanisme fondamental de l'assurance?",
-    "options": [
+    "option": [
       "L'externalisation des risques",
       "La provision des risques",
       "La mutualisation des risques",
@@ -21,7 +21,7 @@
   },
   {
     "question": "La classification utilisée par les professionnels de l'assurance en France dissocie les assurances en fonction:",
-    "options": [
+    "option": [
       "De leur catégorie de risque",
       "De leurs garanties",
       "Du type de clientèle",
@@ -31,7 +31,7 @@
   },
   {
     "question": "Que signifie le sigle ACPR?",
-    "options": [
+    "option": [
       "Assureur Conseil Professionnel Régulateur",
       "Autorité Consultative Prudentielle et Réglementaire",
       "Assurance, Contrôle, Prévention et Réflexion",
@@ -41,7 +41,7 @@
   },
   {
     "question": "Réglementairement et en contrepartie de leurs engagements vis-à-vis des assurés, les sociétés d'assurance doivent:",
-    "options": [
+    "option": [
       "Emettre des obligations pour promouvoir les placements dans les dettes souveraines",
       "Remettre des documents de renseignements à tous leurs partenaires",
       "Diffuser un compte rendu mensuel de leur activité à leur autorité compétente",
@@ -51,7 +51,7 @@
   },
   {
     "question": "Sur le plan patrimonial, le dommage peut se définir comme:",
-    "options": [
+    "option": [
       "Une perte d'actifs ou une augmentation des dettes",
       "Une perte malheureuse ou un manque à gagner",
       "Une perte de chance ou une opportunité non saisie",
@@ -61,7 +61,7 @@
   },
   {
     "question": "Quel est l'acteur le plus représenté en France en matière de distribution de l'assurance vie?",
-    "options": [
+    "option": [
       "Les mutuelles d'assurance",
       "Les banques",
       "Les courtiers d'assurance",
@@ -71,7 +71,7 @@
   },
   {
     "question": "En France, les professionnels classifient les assurances en 2 grandes catégories:",
-    "options": [
+    "option": [
       "Les Assurances Dommages et les Assurances IARD",
       "Les Assurances Vie et les Assurances non Vie",
       "Les Assurances Vie et les Assurances de risques divers",
@@ -81,7 +81,7 @@
   },
   {
     "question": "L'assuré d'un contrat de capitalisation est-il obligatoirement le souscripteur?",
-    "options": [
+    "option": [
       "Oui dans la majorité des cas",
       "Non, le contrat de capitalisation est un contrat d'épargne qui ne comporte ni aléa ni d'assuré",
       "Non, il peut être aussi le bénéficiaire",
@@ -91,7 +91,7 @@
   },
   {
     "question": "Les mutuelles sont :",
-    "options": [
+    "option": [
       "Régies par le Code de la Sécurité Sociale",
       "Créées et gérées par les partenaires sociaux d'une entreprise",
       "Qui proposent des contrats d'assurance de personnes à caractère collectif",
@@ -101,7 +101,7 @@
   },
   {
     "question": "L'assurance vie recouvre les notions de",
-    "options": [
+    "option": [
       "Assurance santé, prévoyance et épargne",
       "Assurances de retraite et dépendance",
       "Assurance d'épargne retraite",
@@ -111,7 +111,7 @@
   },
   {
     "question": "Pour les intermédiaires en assurance, la Directive dite DDA a mis en place:",
-    "options": [
+    "option": [
       "Une condition d'accès supplémentaire à la profession: l'exigence de fonds propres",
       "Une formation continue annuelle de 15 heures minimum",
       "Un nouvel organisme chargé de contrôler les professionnels en assurance: l'Institution Française des Professionnels en Assurance (IFPA)",
@@ -121,7 +121,7 @@
   },
   {
     "question": "Quel est le niveau de capacité professionnelle requis pour les mandataires d'intermédiaires en assurances qui pratiquent l'intermédiation à titre principal?",
-    "options": [
+    "option": [
       "Niveau I",
       "Niveau III",
       "Niveau II",
@@ -131,7 +131,7 @@
   },
   {
     "question": "Les dispositions des établissements d'assurance relatives à la protection des clients et à la lutte anti-blanchiment sont contrôlées par:",
-    "options": [
+    "option": [
       "La brigade financière",
       "Autorité de Contrôle des Assurances et des Mutuelles (ACAM)",
       "Le Comité des Entreprises d'Assurance (CEA)",
@@ -141,7 +141,7 @@
   },
   {
     "question": "Les Assurances non vie correspondent:",
-    "options": [
+    "option": [
       "Aux assurances santé et prévoyance, uniquement",
       "Aux assurances de biens, uniquement",
       "Aux assurances de responsabilité, uniquement",
@@ -151,7 +151,7 @@
   },
   {
     "question": "L'inscription obligatoire au registre unique des intermédiaires tenu par l'ORIAS nécessite:",
-    "options": [
+    "option": [
       "Le règlement des frais d'immatriculation uniquement à la première inscription",
       "La remise préalable d'un dossier complet à L'ACPR avant d'être immatriculé",
       "La délivrance d'un numéro unique d'immatriculation",
@@ -161,17 +161,17 @@
   },
   {
     "question": "Le registre de l'Orias possède plusieurs missions, dont celle de",
-    "options": [
+    "option": [
       "Radier des Intermédiaires ne respectant pas les conditions requises",
       "Conseiller des intermédiaires sur leur stratégie d'investissement",
       "Démarcher de nouveaux intermédiaires pour leur proposer de s'inscrire sur le registre",
       "Prendre des mesures de police administrative"
     ],
-    "correct": "Radier des Intermédiaires ne respectant pas les conditions requises"
+    "correct": "Radier des intermédiaires ne respectant pas les conditions requises"
   },
   {
     "question": "Une entreprise d'assurance organisée sous forme de société civile sans capital social mais avec un fonds d'établissement est:",
-    "options": [
+    "option": [
       "Sociétés d'assurances mutuelles",
       "Sociétés anonymes d'assurance",
       "Sociétés à responsabilité limitée d'assurance",
@@ -181,7 +181,7 @@
   },
   {
     "question": "Les assurances de dommages corporels:",
-    "options": [
+    "option": [
       "Font l'objet de contrats génériques",
       "Sont développées dans le cadre d'un contrat de capitalisation",
       "Excluent le versement de prestations en cas de décès",
@@ -191,7 +191,7 @@
   },
   {
     "question": "En matière de surveillance et de gouvernance, les intermédiaires qui conçoivent des produits d'assurance ont l'obligation:",
-    "options": [
+    "option": [
       "D'élaborer un processus de validation de chaque produit avant leur commercialisation",
       "De définir un marché cible qui puisse convenir à tous les produits qu'ils conçoivent",
       "D'attribuer un numéro d'immatriculation à chaque produit pour faciliter leur surveillance par l'ACPR",
@@ -200,8 +200,18 @@
     "correct": "D'élaborer un processus de validation de chaque produit avant leur commercialisation"
   },
   {
+    "question": "Les dispositions des établissements d'assurance relatives à la protection des clients et à la lutte anti-blanchiment sont contrôlées par:",
+    "option": [
+      "L'ACPR",
+      "Le Comité des Entreprises d'Assurance (CEA)",
+      "L'Autorité de Contrôle des Assurances et des Mutuelles (ACAM)",
+      "La brigade financière"
+    ],
+    "correct": "L'ACPR"
+  },
+  {
     "question": "Un syndic souscrit un contrat d'assurance couvrant à la fois les parties communes et les parties privatives. Cette personne morale est:",
-    "options": [
+    "option": [
       "Le souscripteur uniquement",
       "A la fois le souscripteur et l'assuré",
       "A la fois l'assuré et le bénéficiaire",
@@ -211,7 +221,7 @@
   },
   {
     "question": "Les institutions de prévoyances se distinguent des autres organismes assureurs par:",
-    "options": [
+    "option": [
       "Leur objectif de servir les intérêts des participants uniquement",
       "Leur vocation de proposer des assurances de responsabilité civile",
       "Le fait qu'elles soient créées et gérées par les partenaires sociaux d'une entreprise",
@@ -221,7 +231,7 @@
   },
   {
     "question": "Les assurances de choses font partie des assurances:",
-    "options": [
+    "option": [
       "De responsabilité",
       "Obligatoires",
       "De dommages",
@@ -231,7 +241,7 @@
   },
   {
     "question": "Afin de maintenir sa capacité professionnelle, un intermédiaire en assurance doit:",
-    "options": [
+    "option": [
       "Suivre une formation habilitante de 15 h par an",
       "Suivre une formation continue de 150h tous les ans",
       "Suivre une formation continue de 15h par an",
@@ -241,7 +251,7 @@
   },
   {
     "question": "Une Société Mutuelle d'Assurance (SMA) se distingue d'une Société d'Assurance Mutuelle (SAM) par:",
-    "options": [
+    "option": [
       "La possibilité de rémunérer des intermédiaires pour commercialiser leurs produits",
       "Le fait d'appartenir à la FFSA",
       "La tarification des assurances qui peut être fixe ou variable",
@@ -251,7 +261,7 @@
   },
   {
     "question": "Dans le cadre d'une assurance dite indemnitaire, la prestation est:",
-    "options": [
+    "option": [
       "Déterminée après la survenance du sinistre, en fonction de son importance",
       "Calculée sur la base d'un capital au montant préétabli",
       "Fixée à l'avance lors de la souscription du contrat",
@@ -261,7 +271,7 @@
   },
   {
     "question": "Dans le cadre des assurances gérées par répartition, que signifie le sigle IARD:",
-    "options": [
+    "option": [
       "Incendie, Accident et Risques Divers",
       "Investissement en Assurance à Responsabilités Diverses",
       "Insurance Allocated on Risk Diversity",
@@ -271,197 +281,578 @@
   },
   {
     "question": "Quel est l'organisme réglementaire qui régit le secteur de l'assurance ?",
-    "options": [
-      "L'AMF",
+    "option": [
       "L'ACPR",
-      "Le CEA (Comité des Entreprises d'Assurance)",
-      "La FFSA (Fédération Française des Sociétés d'Assurances)"
+      "L'AMF",
+      "L'AGEA",
+      "La FFA"
     ],
     "correct": "L'ACPR"
   },
   {
-    "question": "Parmi les 3 types de produits d'assurance, le contrat d'épargne et de placement est:",
-    "options": [
-      "L'assurance vie",
-      "L'assurance de biens",
-      "L'assurance de responsabilité",
-      "L'assurance de personnes"
+    "question": "La FFSA et le GEMA sont des instances représentatives:",
+    "option": [
+      "Des mandataires en assurances",
+      "Des intermédiaires en opérations de banque",
+      "Des sociétés et des mutuelles d'assurance",
+      "Des intermédiaires en assurance"
     ],
-    "correct": "L'assurance vie"
+    "correct": "Des sociétés et des mutuelles d'assurance"
   },
   {
-    "question": "La note de couverture permet de:",
-    "options": [
-      "Proposer une assurance sur mesure",
-      "Constater l'existence d'une garantie provisoire",
-      "Informer le client de l'étendue des garanties",
-      "Informer le client sur les frais et les coûts du contrat"
+    "question": "Le pouvoir de vendre un actif est",
+    "option": [
+      "Un acte de conservation",
+      "Un acte de disposition",
+      "Un acte authentique",
+      "Un acte d'administration"
     ],
-    "correct": "Constater l'existence d'une garantie provisoire"
+    "correct": "Un acte de disposition"
   },
   {
-    "question": "La durée de l'assurance de groupe peut être:",
-    "options": [
-      "Déterminée",
-      "De courte durée",
-      "Indéterminée",
-      "Fixée à l'avance par l'assureur"
+    "question": "Dans un actif patrimonial, l'immobilier de jouissance peut se définir comme...",
+    "option": [
+      "L'immobilier détenu par un usufruitier",
+      "La résidence de tourisme",
+      "la résidence principale et le cas échéant la résidence secondaire",
+      "L'immobilier détenu dans le patrimoine professionnel"
     ],
-    "correct": "Indéterminée"
+    "correct": "la résidence principale et le cas échéant la résidence secondaire"
   },
   {
-    "question": "Dans le cadre du régime d’imposition des dividendes versés depuis le 1er janvier 2018 :",
-    "options": [
-      "Le taux forfaitaire d’Impôt sur le Revenu applicable est de 12,8%",
-      "L’abattement en cas d’option au barème progressif de l’Impôt sur le Revenu a été supprimé",
-      "L’option au barème progressif de l’Impôt sur le Revenu a été supprimé",
-      "Les prélèvements sociaux ne sont pas applicables"
+    "question": "En l'absence de contrat de mariage, le régime matrimonial des époux est obligatoirement:",
+    "option": [
+      "la séparation réduite aux acquêts",
+      "La communauté universelle",
+      "la communauté réduite aux acquêts",
+      "La séparation de bien"
     ],
-    "correct": "Le taux forfaitaire d’Impôt sur le Revenu applicable est de 12,8%"
+    "correct": "la communauté réduite aux acquêts"
   },
   {
-    "question": "La définition juridique d'une assurance est:",
-    "options": [
-      "Une opération par laquelle l'assureur garantit à l'assuré le versement d'une prestation si une condition est remplie",
-      "Un contrat par lequel un individu souscrit une garantie en échange du versement de primes",
-      "Une opération par laquelle une personne s'engage à garantir un dommage",
-      "Une opération par laquelle l'assureur se soumet à verser une prestation si un évènement incertain est rempli"
+    "question": "D'un point de vue économique, le patrimoine est composé:",
+    "option": [
+      "D'actifs financiers",
+      "Uniquement d'actifs",
+      "D'actifs et de passifs",
+      "D'actifs immobiliers"
     ],
-    "correct": "Une opération par laquelle l'assureur se soumet à verser une prestation si un évènement incertain est rempli"
+    "correct": "D'actifs et de passifs"
   },
   {
-    "question": "Quel est le risque de la compagnie d'assurance?",
-    "options": [
-      "Risque d'inflation",
-      "Risque de passivité",
-      "Risque technique",
-      "Risque d'insolvabilité"
+    "question": "Il existe deux grandes familles de régimes matrimoniaux:",
+    "option": [
+      "les régimes primaires et secondaires",
+      "les régimes séparatistes et indépendants",
+      "les régimes communautaires et séparatistes",
+      "les régimes communautaires et indépendantistes"
     ],
-    "correct": "Risque technique"
+    "correct": "les régimes communautaires et séparatistes"
   },
   {
-    "question": "En assurance, l'aléa peut être:",
-    "options": [
-      "La survenance du sinistre",
-      "L'existence du sinistre",
-      "La durée de vie de l'assuré",
-      "La date de survenance du sinistre"
+    "question": "Dans le patrimoine d'un couple marié, les biens propres correspondent:",
+    "option": [
+      "aux biens appartenant à un seul époux",
+      "aux biens neufs nouvellement acquis",
+      "aux biens détenus en indivision par les époux",
+      "aux biens démembrés"
     ],
-    "correct": "La survenance du sinistre"
+    "correct": "aux biens appartenant à un seul époux"
   },
   {
-    "question": "Quelle est la définition d'un risque pur?",
-    "options": [
-      "Un risque pour lequel il n'y a pas d'aléa",
-      "Un risque qui ne peut donner naissance qu'à des pertes",
-      "Un risque sans possibilité d'être indemnisé",
-      "Un risque qui ne peut donner naissance qu'à des gains"
+    "question": "Le droit de propriété peut être scindé en deux éléments:",
+    "option": [
+      "l'usufruit/la nue propriété",
+      "le bâti/le non bâti",
+      "les fondations/le gros oeuvre",
+      "l'immobilier/le mobilier"
     ],
-    "correct": "Un risque qui ne peut donner naissance qu'à des pertes"
+    "correct": "l'usufruit/la nue propriété"
   },
   {
-    "question": "Le principe du mutualisme permet de:",
-    "options": [
-      "Diviser par 2 les risques sur les assurés",
-      "Transférer les risques de l'assuré vers l'assureur",
-      "Répartir les risques entre les adhérents",
-      "Garantir les adhérents d'une mutualité"
+    "question": "L'indivision peut se définir comme...:",
+    "option": [
+      "une situation dans laquelle plusieurs personnes sont titulaires d'un droit de propriété concurrent sur un même bien",
+      "une co-propriété",
+      "une co-location",
+      "un démembrement de propriété"
     ],
-    "correct": "Répartir les risques entre les adhérents"
+    "correct": "une situation dans laquelle plusieurs personnes sont titulaires d'un droit de propriété concurrent sur un même bien"
   },
   {
-    "question": "La gestion de la demande, qui fait partie du plan stratégique d'une société d'assurance, a pour objectif:",
-    "options": [
-      "La satisfaction de la clientèle et la fidélisation des assurés",
-      "La détermination des tarifs les plus attractifs",
-      "Le suivi des coûts de production",
-      "L'acquisition de nouveaux clients à travers l'expansion de nouveaux marchés"
+    "question": "Dans le langage courant, le patrimoine d'une personne correspond à:",
+    "option": [
+      "A sa fortune",
+      "A son foyer fiscal",
+      "A sa catégorie socioprofessionnelle",
+      "A l'évolution de son âge"
     ],
-    "correct": "La satisfaction de la clientèle et la fidélisation des assurés"
+    "correct": "A sa fortune"
   },
   {
-    "question": "Les Sociétés d'Assurance Mutuelle (SAM) se distinguent des autres organismes assureurs par:",
-    "options": [
-      "La possibilité de rémunérer des intermédiaires pour commercialiser leurs produits",
-      "L'interdiction de réaliser des bénéfices",
-      "Le fait qu'elles soient à but non lucratif",
-      "La participation des assurés aux bénéfices"
+    "question": "Depuis le 1 février 1966, le régime légal en France est:",
+    "option": [
+      "le régime de la communauté de meubles et d'acquêts",
+      "le régime de la communauté réduite aux acquêts",
+      "le régime de la participation aux acquêts",
+      "le régime des acquêts sans participation"
     ],
-    "correct": "La participation des assurés aux bénéfices"
+    "correct": "le régime de la communauté réduite aux acquêts"
   },
   {
-    "question": "L'inscription obligatoire au registre unique des intermédiaires tenu par l'ORIAS nécessite:",
-    "options": [
-      "La délivrance d'un numéro unique d'immatriculation",
-      "Le renouvellement tous les 3 ans",
-      "La remise préalable d'un dossier complet à L'ACPR avant d'être immatriculé",
-      "Le règlement des frais d'immatriculation uniquement à la première inscription"
+    "question": "A la suite du décès d'un usufruitier, l'usufruit:",
+    "option": [
+      "est transmis à ses héritiers",
+      "est transformé en capital",
+      "rejoint automatiquement la nue propriété",
+      "est transformé en rente viagère"
     ],
-    "correct": "La délivrance d'un numéro unique d'immatriculation"
+    "correct": "rejoint automatiquement la nue propriété"
   },
   {
-    "question": "Dans le cadre d'un contrat de capitalisation, l'assuré est:",
-    "options": [
-      "La personne qui souscrit le contrat",
-      "La personne sur la tête de laquelle est souscrit le contrat",
-      "La personne désignée pour percevoir les fonds",
-      "Il n'y a pas d'assuré"
+    "question": "Dans le cadre d'un bien démembré, les grosses réparations sont supportées par :",
+    "option": [
+      "le locataire",
+      "le nu-propriétaire",
+      "l'usufruitier",
+      "le propriétaire"
     ],
-    "correct": "Il n'y a pas d'assuré"
+    "correct": "le nu-propriétaire"
   },
   {
-    "question": "Le plan stratégique d'une compagnie d'assurance a pour finalité:",
-    "options": [
-      "L'organisation d'une stratégie commerciale",
-      "La distribution d'un portefeuille de produits innovants",
-      "La détermination des objectifs à long terme",
-      "Le contrôle du marché et l'analyse de la concurrence"
+    "question": "Dans un régime de séparation de biens, les biens acquis par les deux époux pendant le mariage sont:",
+    "option": [
+      "des biens démembrés",
+      "des biens séparés",
+      "des biens communs",
+      "des biens indivis"
     ],
-    "correct": "La détermination des objectifs à long terme"
+    "correct": "des biens indivis"
   },
   {
-    "question": "La subrogation est:",
-    "options": [
-      "Un principe qui permet à l'assureur de prendre la place de l'assuré",
-      "Un principe qui permet à l'assuré de prendre la place de l'assureur",
-      "Une opération de réassurance",
-      "Un contrat qui permet de garantir l'assuré sur des risques multiples"
+    "question": "L'épargne est la part des revenus qui",
+    "option": [
+      "est payable sous forme de primes",
+      "n'est pas consommée",
+      "est placée en assurance vie",
+      "est déposée sur un compte bancaire"
     ],
-    "correct": "Un principe qui permet à l'assureur de prendre la place de l'assuré"
+    "correct": "n'est pas consommée"
   },
   {
-    "question": "Un contrat de prévoyance collective:",
-    "options": [
-      "Est un contrat d'assurance de groupe",
-      "Est un contrat qui permet de garantir l'assuré et sa famille en cas de décès",
-      "Est un contrat de capitalisation",
-      "Est un contrat qui permet de couvrir l'entreprise"
+    "question": "Qu'est ce que le droit de préemption?",
+    "option": [
+      "Une priorité pour acquérir les droits cédés",
+      "Une protection juridique et assistance juridique",
+      "Une exonération des droits de mutation à titre gratuit",
+      "Une exonération des droits de mutation à titre onéreux"
     ],
-    "correct": "Est un contrat d'assurance de groupe"
+    "correct": "Une priorité pour acquérir les droits cédés"
   },
   {
-    "question": "Une assurance qui garantit un dommage matériel est:",
-    "options": [
-      "Une assurance de personnes",
-      "Une assurance de prévoyance",
-      "Une assurance de vie",
-      "Une assurance de choses"
+    "question": "Le droit de jouir d'un bien correspond:",
+    "option": [
+      "A l'abusus",
+      "Au fructus",
+      "A l'humus",
+      "A l'usus"
     ],
-    "correct": "Une assurance de choses"
+    "correct": "Au fructus"
   },
   {
-    "question": "Un contrat d'assurance collective repose sur:",
-    "options": [
-      "Une personne morale et le souscripteur",
-      "Un contrat signé par une personne morale",
-      "Le régime juridique de l'assurance",
-      "Le contrat individuel"
+    "question": "Le pouvoir de gérer normalement son patrimoine est",
+    "option": [
+      "Un acte d'administration",
+      "Un acte de conclusion",
+      "Un acte de dissolution",
+      "Un acte diffamatoire"
     ],
-    "correct": "Un contrat signé par une personne morale"
+    "correct": "Un acte d'administration"
+  },
+  {
+    "question": "Un contrat responsable doit prendre en charge",
+    "option": [
+      "Au moins 35% du montant des médicaments à vignette blanche",
+      "Au moins 45% du montant des médicaments à vignette blanche",
+      "Au moins 40% du montant des médicaments à vignette blanche",
+      "Au moins 30% du montant des médicaments à vignette blanche"
+    ],
+    "correct": "Au moins 30% du montant des médicaments à vignette blanche"
+  },
+  {
+    "question": "Les contrats d'assurance dépendance garantissent",
+    "option": [
+      "La dépendance légère ou partielle",
+      "La dépendance partielle ou totale",
+      "La dépendance partielle uniquement",
+      "La dépendance totale uniquement"
+    ],
+    "correct": "La dépendance partielle ou totale"
+  },
+  {
+    "question": "Le financement de la dépendance est aujourd'hui principalement pris en charge par",
+    "option": [
+      "La dépense publique",
+      "Une nouvelle branche de la sécurité sociale (5e risque)",
+      "Des assurances privées",
+      "Un dispositif mixte (public/privé) selon les ressources de chaque bénéficiaire"
+    ],
+    "correct": "La dépense publique"
+  },
+  {
+    "question": "Le taux contractuel d'une garantie IPT d'un contrat d'assurance de prêt est déterminé par:",
+    "option": [
+      "La Sécurité Sociale",
+      "Le médecin conseil de la compagnie d'assurance",
+      "L'assureur",
+      "La CPAM"
+    ],
+    "correct": "Le médecin conseil de la compagnie d'assurance"
+  },
+  {
+    "question": "La grille AGGIR permet:",
+    "option": [
+      "De classer le type de prestations proposées en fonction du niveau de dépendance",
+      "De déterminer le montant de prise en charge par l'Assurance Maladie",
+      "D'évaluer le coût des personnes dépendantes selon leur état, que ce soit en institution ou à domicile",
+      "D'évaluer le niveau de dépendance des personnes âgées"
+    ],
+    "correct": "D'évaluer le niveau de dépendance des personnes âgées"
+  },
+  {
+    "question": "La période de franchise en matière d'assurance emprunteur peut durer entre",
+    "option": [
+      "15 jours et 6 mois",
+      "15 jours et 120 jours",
+      "15 jours et 90 jours",
+      "15 jours et 1 an"
+    ],
+    "correct": "15 jours et 6 mois"
+  },
+  {
+    "question": "Dans le cadre des assurances emprunteurs, que signifie le sigle ITT?",
+    "option": [
+      "Incapacité Temporaire de Travail",
+      "Inaptitude Temporaire de Travail",
+      "Inaptitude de Travail Temporaire",
+      "Incapacité Totale de Travail"
+    ],
+    "correct": "Incapacité Temporaire de Travail"
+  },
+  {
+    "question": "Dans le cadre d'une GAV, l'assuré est indemnisé pour un préjudice esthétique dès lors que l'incapacité permanente imputable directement à l'accident est au moins égale à:",
+    "option": [
+      "10%",
+      "50%",
+      "30%",
+      "60%",
+      "40%"
+    ],
+    "correct": "50%"
+  },
+  {
+    "question": "Sous quelle condition un bénéficiaire non prioritaire peut demander le paiement d'un capital décès ?",
+    "option": [
+      "Si le bénéficiaire prioritaire ne se manifeste pas au plus tard 2 ans après le décès de l'assuré",
+      "Si le bénéficiaire prioritaire décède au plus tôt 1 mois après le décès de l'assuré",
+      "le bénéficiaire prioritaire ne se manifeste pas au plus tard 1 mois après le décès de l'assuré",
+      "Il ne peut jamais demander le paiement du capital au même titre que le bénéficiaire prioritaire"
+    ],
+    "correct": "le bénéficiaire prioritaire ne se manifeste pas au plus tard 1 mois après le décès de l'assuré"
+  },
+  {
+    "question": "Les tarifs des assurances complémentaires santé dépendent de plusieurs critères dont:",
+    "option": [
+      "L'automobile de l'assuré",
+      "Le domicile de l'assuré",
+      "Le salaire de l'assuré",
+      "Le nombre d'enfants de l'assuré"
+    ],
+    "correct": "Le domicile de l'assuré"
+  },
+  {
+    "question": "Pour faire sa demande de capital en cas de décès de l'assuré, un bénéficiaire non prioritaire dispose d'un délai:",
+    "option": [
+      "De la caisse nationale de solidarité pour l'autonomie",
+      "De l'État",
+      "De la caisse primaire d'assurance maladie",
+      "De la fédération française d'assurances"
+    ],
+    "correct": "De la caisse primaire d'assurance maladie"
+  },
+  {
+    "question": "Une assurance emprunteur protège",
+    "option": [
+      "Uniquement le bénéficiaire",
+      "Uniquement l'établissement prêteur",
+      "Aussi bien l'emprunteur que l'établissement prêteur",
+      "Uniquement l'emprunteur"
+    ],
+    "correct": "Aussi bien l'emprunteur que l'établissement prêteur"
+  },
+  {
+    "question": "Les contrats d'assurance dépendance peuvent être cumulés avec:",
+    "option": [
+      "La rente IPT (Invalidité Permanente et Totale)",
+      "La rente IP (Incapacité Permanente Partielle)",
+      "L'APA (Allocation Personnalisée d'Autonomie)",
+      "La garantie PTIA (Perte Totale et Irréversible d'autonomie)"
+    ],
+    "correct": "L'APA (Allocation Personnalisée d'Autonomie)"
+  },
+  {
+    "question": "Les Indemnités journalières sont versées à l'expiration:",
+    "option": [
+      "D'un délai d'obtention",
+      "D'un délai de franchise",
+      "D'un délai de carence",
+      "D'un délai de forclusion"
+    ],
+    "correct": "D'un délai de franchise"
+  },
+  {
+    "question": "Dans le cadre des assurances emprunteurs, la PTIA correspond à",
+    "option": [
+      "L'incapacité complète d'une personne à effectuer les gestes de la vie courante",
+      "L'incapacité partielle et temporaire de se livrer à une activité professionnelle",
+      "L'invalidité physique ou mentale constatée avant l'âge de 65 ans",
+      "L'incapacité temporaire d'exercer toute occupation rapportant gain ou profit"
+    ],
+    "correct": "L'invalidité physique ou mentale constatée avant l'âge de 65 ans"
+  },
+  {
+    "question": "Une rente d'incapacité permanente est versée à l'assuré",
+    "option": [
+      "Si ce dernier est âgé de plus de 60 ans",
+      "Uniquement s'il appartient à la 3ème catégorie d'invalidité",
+      "En cas d'accident du travail ou de maladie professionnelle",
+      "S'il ne perçoit pas d'allocation supplémentaire d'invalidité"
+    ],
+    "correct": "En cas d'accident du travail ou de maladie professionnelle"
+  },
+  {
+    "question": "En cas de décès du titulaire de la pension d'invalidité, une pension de réversion est alors versée:",
+    "option": [
+      "A l'ensemble des personnes à la charge totale et permanente de l'assuré au moment de son décès",
+      "A l'ensemble des personnes désignées par l'assuré",
+      "A son conjoint survivant âgé de moins de 55 ans",
+      "Au conjoint et aux enfants"
+    ],
+    "correct": "A son conjoint survivant âgé de moins de 55 ans"
+  },
+  {
+    "question": "Dans le cadre d'une assurance emprunteur, qu'est-ce qu'un délai de carence",
+    "option": [
+      "La période durant laquelle l'assureur prend connaissance du sinistre et prépare l'indemnisation",
+      "La période durant laquelle l'assureur regroupe les informations nécessaires au contrat",
+      "La période durant laquelle l'assurance emprunteur ne couvre pas son client en cas de survenance d'un risque",
+      "La période durant laquelle la majoration n'est pas compatible avec la capacité de remboursement du client"
+    ],
+    "correct": "La période durant laquelle l'assurance emprunteur ne couvre pas son client en cas de survenance d'un risque"
+  },
+  {
+    "question": "Dans le cadre de la complémentaire santé, le délai d'attente est la période durant laquelle:",
+    "option": [
+      "L'assureur ne prend en charge aucune prestation pendant au moins 1 an",
+      "La personne assurée ne bénéficie pas de certains remboursements",
+      "L'assureur évalue le risque pour définir les garanties du contrat",
+      "L'assuré réalise des examens médicaux afin de déterminer les garanties du contrat"
+    ],
+    "correct": "La personne assurée ne bénéficie pas de certains remboursements"
+  },
+  {
+    "question": "Un contrat qualifié de responsable doit",
+    "option": [
+      "Donner droit à l'aide à l'acquisition d'une complémentaire santé aux assurés individuels",
+      "Donner droit à des avantages sociaux et fiscaux aux entreprises et leurs salariés dans le cadre d'un contrat collectif",
+      "Donner droit à des avantages sociaux et fiscaux aux assurés individuels",
+      "Être assujetti à la taxe sur les conventions d'assurance"
+    ],
+    "correct": "Donner droit à des avantages sociaux et fiscaux aux assurés individuels"
+  },
+  {
+    "question": "Dans le cadre des assurances emprunteurs, que signifie le sigle IPP?",
+    "option": [
+      "Incapacité Professionnelle Permanente",
+      "Inaptitude Partielle Professionnelle",
+      "Invalidité Permanente et Partielle",
+      "Invalidité Permanente Partielle"
+    ],
+    "correct": "Invalidité Permanente Partielle"
+  },
+  {
+    "question": "La grille AGGIR se compose de",
+    "option": [
+      "6 groupes",
+      "4 groupes",
+      "3 groupes",
+      "5 groupes"
+    ],
+    "correct": "5 groupes"
+  },
+  {
+    "question": "Afin de respecter son obligation de transparence, un assureur doit préciser:",
+    "option": [
+      "Toute participation ou non au capital d'une entreprise d'assurance",
+      "La performance du contrat d'assurance à l'échéance",
+      "S'il fonde ses conseils sur une analyse impartiale ou sur une analyse personnalisée",
+      "Toute information personnelle qui peut aider l'assuré à prendre sa décision"
+    ],
+    "correct": "Toute participation ou non au capital d'une entreprise d'assurance"
+  },
+  {
+    "question": "Certains contrats sont exempts de l'obligation d'information précontractuelle. Lesquels?",
+    "option": [
+      "Les contrats de responsabilité civile obligatoires",
+      "Les contrats qui garantissent les grands risques ou les contrats à caractère temporaire",
+      "Les contrats d'assurance à caractère facultatif",
+      "Les contrats qui garantissent les catastrophes naturelles et les catastrophes technologiques"
+    ],
+    "correct": "Les contrats qui garantissent les grands risques ou les contrats à caractère temporaire"
+  },
+  {
+    "question": "En matière de déontologie, les assureurs de contrats collectifs santé et prévoyance s'engagent à:",
+    "option": [
+      "Couvrir les assurés, pour les contrats obligatoires, indépendamment de leur état de santé",
+      "Utiliser la mention 'assurance dépendance' à titre provisoire, le cas échéant",
+      "Faciliter la compréhension et le choix des garanties de santé proposées dans le contrat",
+      "Respecter le code de bonne conduite annexé à la convention AERAS uniquement pour les contrats de prévoyance"
+    ],
+    "correct": "Couvrir les assurés, pour les contrats obligatoires, indépendamment de leur état de santé"
+  },
+  {
+    "question": "Dans le cadre d'une assurance vie, lorsque le capital de l'assuré est transformé en rente viagère entre 60 et 69 ans",
+    "option": [
+      "30% de son montant est imposable",
+      "50% de son montant est imposable",
+      "20% de son montant est imposable",
+      "40% de son montant est imposable"
+    ],
+    "correct": "40% de son montant est imposable"
+  },
+  {
+    "question": "Le recueil des besoins, des exigences et du conseil donné au client doit être",
+    "option": [
+      "Signé par les différentes parties du contrat",
+      "Formalisé et conservé",
+      "Fixé par arrêté",
+      "Renouvelé chaque année"
+    ],
+    "correct": "Formalisé et conservé"
+  },
+  {
+    "question": "Afin de formaliser son conseil, le distributeur remet au souscripteur un document normalisé d'information sur les produits d'assurance qui",
+    "option": [
+      "Doit être standardisé au niveau européen",
+      "Concerne à la fois les contrats multisupports et les assurances vie investies en fonds euros",
+      "Permet de faciliter la compréhension du client et la comparabilité des produits",
+      "Permet d'apprécier les risques que l'assureur entend assumer"
+    ],
+    "correct": "Permet de faciliter la compréhension du client et la comparabilité des produits"
+  },
+  {
+    "question": "Dans le cadre de la gouvernance produit, le marché cible est défini par",
+    "option": [
+      "Le distributeur uniquement",
+      "Le producteur et le distributeur",
+      "Le producteur uniquement",
+      "Le client final et le producteur"
+    ],
+    "correct": "Le producteur et le distributeur"
+  },
+  {
+    "question": "A travers ses différents supports et modes de gestion, l'assurance vie répond aux objectifs des investisseurs recherchant:",
+    "option": [
+      "Une performance élevée uniquement",
+      "Une performance élevée ou sécurisée",
+      "Un risque faible uniquement",
+      "Une performance sécurisée uniquement"
+    ],
+    "correct": "Une performance élevée ou sécurisée"
+  },
+  {
+    "question": "Afin de communiquer en toute transparence des informations à son client, le professionnel de l'assurance se doit:",
+    "option": [
+      "D'informer le souscripteur sur le cadre de son intervention et sur la nature de sa rémunération",
+      "D'avoir une conduite générale impartiale et professionnelle, au mieux des intérêts du client",
+      "Les propositions réunies",
+      "De préciser qu'il n'est soumis à aucune obligation contractuelle de travailler exclusivement avec une compagnie d'assurance"
+    ],
+    "correct": "Les 3 propositions réunies"
+  },
+  {
+    "question": "A la différence de la fiche d'information, la notice d'assurance:",
+    "option": [
+      "Expose les obligations de l'assuré",
+      "Met en avant les conséquences sur la succession de contrats",
+      "Evoque le prix de l'assurance",
+      "Décrit précisément les garanties"
+    ],
+    "correct": "Expose les obligations de l'assuré"
+  },
+  {
+    "question": "Lorsqu'un assuré fait face à une circonstance aggravante augmentant la probabilité que le risque survienne, l'assureur engage:",
+    "option": [
+      "Les trois propositions réunies",
+      "La résiliation le contrat selon certaines conditions",
+      "Le maintien du contrat moyennant surprime",
+      "Le maintien du contrat tel qu'il est, en couvrant les risques aggravants comme avant"
+    ],
+    "correct": "Les trois propositions réunies"
+  },
+  {
+    "question": "Conformément aux conditions de garantie des assurances de biens et de responsabilités, la garantie légale de conformité est:",
+    "option": [
+      "Facultative",
+      "Obligatoire",
+      "Gratuite ou payante selon les contrats",
+      "Toujours payante"
+    ],
+    "correct": "Obligatoire"
+  },
+  {
+    "question": "Dans le cadre d'une assurance multirisques habitation, l'assuré a l'obligation de déclarer un vol dans un délai de:",
+    "option": [
+      "72 heures",
+      "24 heures",
+      "48 heures",
+      "96 heures"
+    ],
+    "correct": "48 heures"
+  },
+  {
+    "question": "Les contrats d'assurance de responsabilité civile:",
+    "option": [
+      "Couvrent les risques qui portent atteinte à la personne dans son existence et son intégrité physique",
+      "Garantissent les tiers contre les risques de décès, d'incapacité de travail et de perte d'emploi",
+      "Prévoient le versement d'une rente ou d'un capital en cas de préjudice causé à un tiers",
+      "Correspondent à la garantie minimale souscrite afin de protéger le patrimoine de l'assuré"
+    ],
+    "correct": "Prévoient le versement d'une rente ou d'un capital en cas de préjudice causé à un tiers"
+  },
+  {
+    "question": "En matière d'assurances de biens et de responsabilités, lorsque le risque assurable vient à s'aggraver en cours de contrat, les garanties reprennent effet",
+    "option": [
+      "Dans les 15 jours suivant la déclaration des circonstances aggravantes.",
+      "Une fois que l'assureur a renouvelé le contrat pour y inclure le nouveau risque",
+      "A l'issue de la déclaration ultérieure d'aggravation du risque",
+      "A partir du moment où le souscripteur prend connaissance des circonstances aggravantes"
+    ],
+    "correct": "A l'issue de la déclaration ultérieure d'aggravation du risque"
+  },
+  {
+    "question": "Conformément aux conditions de garantie des assurances de biens, les garanties commerciales",
+    "option": [
+      "Est définie dans les conditions générales du contrat",
+      "Relèvent de la liberté contractuelle entre le professionnel et le souscripteur",
+      "Est acquise si l'assuré prouve l'existence d'un défaut caché sur le produit",
+      "Est gratuite et accorde un délai de 2 ans pour agir à la suite d'un vice constaté"
+    ],
+    "correct": "Relèvent de la liberté contractuelle entre le professionnel et le souscripteur"
   },
   {
     "question": "La garantie protection juridique offre à l'assuré:",
-    "options": [
+    "option": [
       "Une assistance juridique à travers un service spécialisé",
       "L'obtention d'une réparation à l'amiable du dommage subi",
       "La prise en charge des frais de justice",
@@ -471,7 +862,7 @@
   },
   {
     "question": "Dans le cadre d'une assurance multirisques habitation, l'assuré a l'obligation de déclarer un sinistre dans un délai maximum de",
-    "options": [
+    "option": [
       "15 jours à partir du moment où il en a connaissance",
       "5 jours à partir du moment où il en a connaissance",
       "10 jours à partir du moment où il en a connaissance",
@@ -481,582 +872,1012 @@
   },
   {
     "question": "Quelle est la particularité de la note de couverture en matière d'information client ?",
-    "options": [
+    "option": [
       "Elle constate l'existence d'une garantie provisoire jusqu'à ce que le contrat soit établi",
       "Elle confère une présomption de garantie au profit du souscripteur",
       "Elle vérifie et contrôle que toutes les obligations de l'assureur ont été respectées.",
-      "Elle matérialise l'information client sur les risques et les garanties"
+      "Elle matérialise le contenu du contrat notamment ses exclusions"
     ],
     "correct": "Elle constate l'existence d'une garantie provisoire jusqu'à ce que le contrat soit établi"
   },
   {
-    "question": "Quels produits sont qualifiés par l’AMF de « produits complexes » ?",
-    "options": [
-      "Les obligations",
-      "Le monétaire",
-      "Les produits dérivés",
-      "Les actions"
-    ],
-    "correct": "Les produits dérivés"
+        "question": "Quels produits sont qualifiés par l’AMF de « produits complexes » ?",
+        "option": ["Les obligations", "Le monétaire", "Les produits dérivés", "Les actions"],
+        "correct": "Les produits dérivés"
   },
   {
-    "question": "Dans le cadre d’une assurance dite forfaitaire, la prestation est :",
-    "options": [
-      "Déterminée après la survenance du sinistre, en fonction de son degré d’importance",
-      "Calculée en fonction du principe de spécialisation",
-      "Fixée à l’avance lors de la souscription du contrat",
-      "Rattachée principalement aux assurances vie ou décès"
-    ],
-    "correct": "Fixée à l’avance lors de la souscription du contrat"
-  },
-  {
-    "question": "Dans le cadre d’un contrat de prévoyance, la garantie invalidité prévoit le versement :",
-    "options": [
-      "D’une rente uniquement",
-      "D’un capital ou d’un salaire",
-      "D’une rente ou d’un salaire",
-      "D’une rente ou d’un capital"
-    ],
-    "correct": "D’une rente ou d’un capital"
-  },
-  {
-    "question": "Quelle classe d’actifs est l’exception à la relation rendement/risque ?",
-    "options": [
-      "Les obligations",
-      "Le monétaire",
-      "L’or",
-      "L’immobilier"
-    ],
-    "correct": "L’or"
-  },
-  {
-    "question": "Dans le cadre d’un démembrement de propriété :",
-    "options": [
-      "L’usufruitier est tenu de supporter les charges exceptionnelles",
-      "Le nu-propriétaire peut utiliser et percevoir les revenus",
-      "L’usufruit peut être cédé à titre onéreux",
-      "Le nu-propriétaire doit effectuer les dépenses de réparation et d’entretien"
-    ],
-    "correct": "L’usufruit peut être cédé à titre onéreux"
-  },
-  {
-    "question": "Quel actif du patrimoine des ménages fait partie de la catégorie des actifs non financiers ?",
-    "options": [
-      "Les liquidités",
-      "L’épargne",
-      "Les logements",
-      "Les crédits"
-    ],
-    "correct": "Les logements"
-  },
-  {
-    "question": "La dévolution successorale représente :",
-    "options": [
-      "La renonciation sur la succession par l’un des héritiers",
-      "Une succession réalisée sans testament",
-      "La distribution aux héritiers des biens du défunt",
-      "L’action en justice réalisée par l’héritier réservataire"
-    ],
-    "correct": "La distribution aux héritiers des biens du défunt"
-  },
-  {
-    "question": "Les assurances gérées en capitalisation :",
-    "options": [
-      "Portent sur des risques constants",
-      "Sont souscrites pour une courte période",
-      "Comportent un aspect lié à l’épargne",
-      "Excluent les contrats de prévoyance collective"
-    ],
-    "correct": "Comportent un aspect lié à l’épargne"
-  },
-  {
-    "question": "Dans le cadre d’une donation, qu’est-ce que le rappel fiscal ?",
-    "options": [
-      "Les liens de parenté entre le donateur et le donataire",
-      "Le délai de 15 ans applicable pour toutes donations antérieures",
-      "Le non-paiement des droits de donation",
-      "Le barème de taxation pris en compte pour calculer les droits de mutation en ligne directe"
-    ],
-    "correct": "Le délai de 15 ans applicable pour toutes donations antérieures"
-  },
-  {
-    "question": "Dans le cadre de l’impôt à finalité sociale :",
-    "options": [
-      "Les produits de placement sont exonérés de prélèvements sociaux",
-      "La loi de financement de la Sécurité sociale 2020 a mis en place des taux historiques de prélèvements sociaux",
-      "Les prestations familiales et les allocations de logement sont soumises à la CRDS",
-      "La CSG est appliquée aux revenus d’activité et de capitaux"
-    ],
-    "correct": "La CSG est appliquée aux revenus d’activité et de capitaux"
-  },
-  {
-    "question": "Conformément à la loi ECKERT, dans le cas où l’inactivité d’un compte résulte du décès de son titulaire, le délai de transfert du solde à la Caisse des dépôts est de :",
-    "options": [
-      "4 ans",
-      "5 ans",
-      "3 ans",
-      "7 ans"
-    ],
-    "correct": "3 ans"
-  },
-  {
-    "question": "La volatilité d’une action mesure le rapport :",
-    "options": [
-      "Performance/rendement",
-      "Diversification/risque",
-      "Performance/risque",
-      "Gain/fluctuations"
-    ],
-    "correct": "Performance/risque"
-  },
-  {
-    "question": "A la suite du décès d'un nu propriétaire, la nue propriété:",
-    "options": [
-      "est transformée en capital",
-      "est transformée en usufruit",
-      "rejoint automatiquement l'usufruit",
-      "est transmise à ses héritiers"
-    ],
-    "correct": "est transmise à ses héritiers"
-  },
-  {
-    "question": "Dans le patrimoine d’un couple marié, les biens propres correspondent :",
-    "options": [
-      "aux biens appartenant à un seul époux",
-      "aux biens démembrés",
-      "aux biens neufs nouvellement acquis",
-      "aux biens détenus en indivision par les époux"
-    ],
-    "correct": "aux biens appartenant à un seul époux"
-  },
-  {
-    "question": "Dans le cadre de la dévolution volontaire, la quotité disponible spéciale permet :",
-    "options": [
-      "de donner à ses enfants plus qu’à n’importe qui d’autre",
-      "d’avantager un tiers",
-      "de donner à ses père et mère plus qu’à n’importe qui d’autre",
-      "de donner à son conjoint plus qu’à n’importe qui d’autre"
-    ],
-    "correct": "de donner à son conjoint plus qu’à n’importe qui d’autre"
-  },
-  {
-    "question": "Dans le cadre du régime des retraites :",
-    "options": [
-      "Au sein des régimes complémentaires obligatoires, la retraite est calculée sur la base d’unités de compte accumulés",
-      "Le système de retraite français s’appuie sur un mécanisme de répartition",
-      "Le mécanisme de la subrogation permet d’augmenter l’assiette de référence pour le calcul de la pension annuelle",
-      "Le financement de la protection sociale est assuré par une contribution sociale sur les sociétés"
-    ],
-    "correct": "Le système de retraite français s’appuie sur un mécanisme de répartition"
-  },
-  {
-    "question": "Dans le cadre de l’épargne logement :",
-    "options": [
-      "La Loi de finances pour 2018 a mis en place la prime à l’Etat pour les PEL ouverts à partir du 1er janvier 2018",
-      "Il n’est pas possible de cumuler un CEL et un PEL",
-      "La banque fournit chaque année un relevé sur le montant des intérêts produits par le PEL",
-      "Le versement initial pour un CEL est de 550€ minimum"
-    ],
-    "correct": "La banque fournit chaque année un relevé sur le montant des intérêts produits par le PEL"
-  },
-  {
-    "question": "Si le professionnel se trouve dans l'impossibilité d'identifier clairement un client :",
-    "options": [
-      "Il a l’interdiction d’effectuer une déclaration de soupçon",
-      "Il a l’obligation de laisser un laps de temps au client afin d’apporter des éclaircissements",
-      "Il a l’interdiction d’exécuter l’opération envisagée",
-      "Il a l’interdiction de mettre un terme à la relation d’affaires"
-    ],
-    "correct": "Il a l’interdiction d’exécuter l’opération envisagée"
-  },
-  {
-    "question": "Les entreprises qui participent à la production du bien ou du service supportent en partie la charge de la TVA appliquée au produit final.",
-    "options": [
-      "Vrai",
-      "Faux, elles la supportent en totalité",
-      "Faux",
-      "Vrai, uniquement pour les produits ou services à forte valeur ajoutée"
-    ],
-    "correct": "Faux"
-  },
-  {
-    "question": "Quelle démarche doit être effectuée pour percevoir un dividende ?",
-    "options": [
-      "Le paiement de l’Imprimé Fiscal Unique",
-      "Le règlement de l’acompte d’impôt lié à la perception du dividende",
-      "La participation à l’assemblée générale des actionnaires",
-      "Aucune démarche n’est à effectuer"
-    ],
-    "correct": "Aucune démarche n’est à effectuer"
-  },
-  {
-    "question": "Dans le cadre du régime d’imposition des dividendes versés depuis le 1 janvier 2018, en cas d’option au barème progressif de l’Impôt sur le Revenu, l’investisseur :",
-    "options": [
-      "Bénéficie d’un crédit d’impôt de 30%",
-      "Bénéficie d’une réduction d’impôt de 20%",
-      "Bénéficie d’un abattement de 40%",
-      "Aucune de ces 3 propositions"
-    ],
-    "correct": "Bénéficie d’un abattement de 40%"
-  },
-  {
-    "question": "L’Autorité des Marchés Financiers (AMF) est :",
-    "options": [
-      "Une instance qui assure la réception et la transmission d’ordres de bourse",
-      "L’instance qui régit les dispositions législatives et réglementaires du système monétaire et financier",
-      "Un organisme public de contrôle des marchés financiers",
-      "Une filiale d’Euronext"
-    ],
-    "correct": "Un organisme public de contrôle des marchés financiers"
-  },
-  {
-    "question": "L’amélioration d’une note financière :",
-    "options": [
-      "Signifie que l’agence de notation recommande l’achat du titre",
-      "Peut influencer le cours du titre à la baisse",
-      "Peut influencer le cours du titre à la hausse",
-      "Signifie que l’agence de notation recommande la vente du titre"
-    ],
-    "correct": "Peut influencer le cours du titre à la hausse"
-  },
-  {
-    "question": "Dans le cadre des contrats d'assurance-vie en cas de décès :",
-    "options": [
-      "L’assurance de survie est surtout souscrite par des personnes n’ayant pas d’enfant",
-      "L’assurance temporaire décès garantit le versement d’un capital au décès de l’assuré, si celui-ci intervient après une date déterminée",
-      "L’assurance de survie permet le versement d’un capital, si le bénéficiaire décède avant l’assuré",
-      "L’assurance temporaire décès garantit le versement d’un capital au décès de l’assuré, si celui-ci intervient avant une date déterminée"
-    ],
-    "correct": "L’assurance temporaire décès garantit le versement d’un capital au décès de l’assuré, si celui-ci intervient avant une date déterminée"
-  },
-  {
-    "question": "Dans le cadre d’une co-souscription démembrée, les co-souscripteurs sont :",
-    "options": [
-      "L’usufruitier et le nu-propriétaire",
-      "Le nu-propriétaire et l’assuré",
-      "L’usufruitier et son conjoint",
-      "L’usufruitier et ses héritiers"
-    ],
-    "correct": "L’usufruitier et le nu-propriétaire"
-  },
-  {
-    "question": "Les contrats dits « à frais précomptés » ont la particularité de :",
-    "options": [
-      "Prélever les frais de gestion annuellement",
-      "Prélever des frais lors de chaque arbitrage",
-      "Prélever l’intégralité des frais de gestion à la sortie du contrat",
-      "Prélever l’intégralité des frais d’entrée dès les premières années du contrat"
-    ],
-    "correct": "Prélever l’intégralité des frais d’entrée dès les premières années du contrat"
-  },
-  {
-    "question": "Pour tous contrats dénoués par décès depuis le 1er juillet 2014, les capitaux versés avant les 70 ans de l’assuré au-delà de 852 500 € sont soumis, pour chaque bénéficiaire, à un prélèvement de :",
-    "options": [
-      "25%",
-      "30 500 €",
-      "20%",
-      "31,25%"
-    ],
-    "correct": "31,25%"
-  },
-  {
-    "question": "Dans un contrat de capitalisation, la programmation des versements peut être :",
-    "options": [
-      "Semestrielle",
-      "Les 3 propositions",
-      "Mensuelle",
-      "Annuelle"
-    ],
-    "correct": "Les 3 propositions"
-  },
-  {
-    "question": "Dans le cadre du PER d’entreprise obligatoire :",
-    "options": [
-      "Il est ouvert à tous les salariés",
-      "Il succède au PERP",
-      "L’épargne cumulée n’est pas transférable sur un autre PER",
-      "Les droits issus des versements obligatoires sont liquidés nécessairement sous forme de capital"
-    ],
-    "correct": "Il est ouvert à tous les salariés"
-  },
-  {
-    "question": "Dans le cadre du PEA :",
-    "options": [
-      "Le montant des versements est en principe limité à 150 000€",
-      "Le compte espèces peut être débiteur",
-      "Le plafond de versement est apprécié en fonction du montant des avoirs globaux capitalisés",
-      "Le titulaire du PEA ne peut pas transférer le plan"
-    ],
-    "correct": "Le montant des versements est en principe limité à 150 000€"
-  },
-  {
-    "question": "Dans le cadre d’un PEP :",
-    "options": [
-      "Le PEP bancaire permet à son titulaire d’effectuer des avances",
-      "Les retraits sont obligatoirement programmés",
-      "Le transfert d’un PEP entraine la perte de l’antériorité fiscale de celui-ci",
-      "Le capital est garanti"
-    ],
-    "correct": "Le capital est garanti"
-  },
-  {
-    "question": "Les versements sur un contrat Madelin doivent avoir lieu :",
-    "options": [
-      "Tous les mois",
-      "Il n’y a pas d’obligation en matière de versements",
-      "Au moins 2 fois / an",
-      "Au moins 1 fois / an"
-    ],
-    "correct": "Au moins 1 fois / an"
-  },
-  {
-    "question": "Dans le cadre d’un PERP :",
-    "options": [
-      "Le contrat est exempté de frais",
-      "La rente est obligatoirement calculée avec un taux technique de 100%",
-      "Le souscripteur reçoit chaque année un relevé de compte individuel",
-      "La sortie de l’épargne s’effectue en principe en capital"
-    ],
-    "correct": "Le souscripteur reçoit chaque année un relevé de compte individuel"
-  },
-  {
-    "question": "Dans le cadre du PER :",
-    "options": [
-      "La sortie en capital est impossible",
-      "Le PER est un produit d’épargne à court terme",
-      "Le déblocage anticipé pour l’acquisition de la résidence principale est prévu",
-      "La gestion sous mandat est la modalité de gestion par défaut"
-    ],
-    "correct": "Le déblocage anticipé pour l’acquisition de la résidence principale est prévu"
-  },
-  {
-    "question": "Quel est l’organe de supervision français des Banques et des Assurances ?",
-    "options": [
-      "Le Ministère des finances",
-      "La Banque de France",
-      "L’ACPR",
-      "L’AMF"
-    ],
-    "correct": "L’ACPR"
-  },
-  {
-    "question": "La valeur acquise d’un capital est :",
-    "options": [
-      "Sa valeur actuelle + les intérêts produits",
-      "Sa valeur nominale – les intérêts produits",
-      "Sa valeur nominale + les intérêts produits",
-      "Sa valeur acquise - les intérêts produits"
-    ],
-    "correct": "Sa valeur nominale + les intérêts produits"
-  },
-  {
-    "question": "La convention AERAS prévoit un mécanisme de limitation des surprimes. Cela concerne l’emprunteur :",
-    "options": [
-      "De plus de 45 ans",
-      "N’ayant jamais été propriétaire de sa résidence principale",
-      "Aux revenus modestes",
-      "Ayant au moins 20% d’apport personnel"
-    ],
-    "correct": "Aux revenus modestes"
-  },
-  {
-    "question": "En matière de santé, la franchise ou la participation forfaitaire des dépenses réelles des assurés sont prises en charge par :",
-    "options": [
-      "Les contrats de complémentaire santé",
-      "L’assurance maladie obligatoire",
-      "La garantie des accidents de la vie",
-      "L’assuré lui-même"
-    ],
-    "correct": "L’assuré lui-même"
-  },
-  {
-    "question": "Lorsqu’un état de dépendance totale est reconnu, le versement :",
-    "options": [
-      "100% du montant prévu par le contrat",
-      "50% du montant prévu par le contrat",
-      "66% du montant prévu par le contrat",
-      "70% du montant prévu par le contrat"
-    ],
-    "correct": "100% du montant prévu par le contrat"
-  },
-  {
-    "question": "Si un assuré de bonne foi remet une déclaration de risque inexacte ou incomplète, cela entraine :",
-    "options": [
-      "Une nullité immédiate de son contrat et donc de ses garanties",
-      "Une éventuelle résiliation par l’assureur dans un délai de 10 jours",
-      "Un remboursement immédiat des primes échues à l’assureur",
-      "Une augmentation de l’indemnité en proportion du taux des primes payées"
-    ],
-    "correct": "Une éventuelle résiliation par l’assureur dans un délai de 10 jours"
-  },
-  {
-    "question": "Si un assuré souhaite revenir sur sa décision de transformer son contrat d’assurance vie monosupport en contrat multisupports, il dispose d’un délai :",
-    "options": [
-      "De 2 mois à compter de sa demande de conversion",
-      "D’1 mois à compter de sa demande de conversion",
-      "De 3 mois à compter de sa demande de conversion",
-      "De 15 jours à compter de sa demande de conversion"
-    ],
-    "correct": "D’1 mois à compter de sa demande de conversion"
-  },
-  {
-    "question": "Si le client d’un PSI choisi de réaliser un investissement risqué, il doit idéalement choisir un horizon de placement :",
-    "options": [
-      "Sur le long terme",
-      "De courte durée",
-      "Qui lui permet de disposer du capital placé",
-      "Qui offre une très grande volatilité"
-    ],
-    "correct": "Sur le long terme"
-  },
-  {
-    "question": "Le montant des franchises d’un contrat d’assurance :",
-    "options": [
-      "Conditionne directement les cotisations",
-      "Est indemnitaire à la charge de l’assureur",
-      "Est forfaitaire et à la charge de l’assuré",
-      "Est déduit de l’indemnité due par l’assuré"
-    ],
-    "correct": "Est forfaitaire et à la charge de l’assuré"
-  },
-  {
-    "question": "Les contrats d’assurance de responsabilité civile :",
-    "options": [
-      "Couvrent les risques qui portent atteinte à la personne dans son existence et son intégrité physique",
-      "Correspondent à la garantie minimale souscrite afin de protéger le patrimoine de l’assuré",
-      "Garantissent les tiers contre les risques de décès, d’incapacité de travail et de perte d’emploi",
-      "Prévoient le versement d’une rente ou d’un capital en cas de préjudice causé à un tiers"
-    ],
-    "correct": "Prévoient le versement d’une rente ou d’un capital en cas de préjudice causé à un tiers"
-  },
-  {
-    "question": "Dans le cadre des impôts directs et indirects :",
-    "options": [
-      "La taxe sur la valeur ajoutée est un impôt direct",
-      "La taxe d’habitation est un impôt indirect",
-      "La taxe sur la valeur ajoutée est un impôt et non une taxe",
-      "Avec les impôts directs, le redevable est distinct du contribuable"
-    ],
-    "correct": "La taxe sur la valeur ajoutée est un impôt et non une taxe"
-  },
-  {
-    "question": "Quelle définition correspond au mieux à la CSG ?",
-    "options": [
-      "Il s’agit d’un impôt indirect proportionnel prélevé sur certaines catégories de revenus",
-      "Il s’agit d’un prélèvement de nature fiscale dont l’objet est social",
-      "Il s’agit d’une taxe fixe applicable uniquement sur les valeurs mobilières et des plus-values de cession de valeurs mobilières",
-      "Il s’agit d’un impôt direct calculé sur l’assiette des bénéfices réalisés par une entreprise"
-    ],
-    "correct": "Il s’agit d’un prélèvement de nature fiscale dont l’objet est social"
-  },
-  {
-    "question": "Pour les contrats multisupports, les prélèvements sociaux sont dus :",
-    "options": [
-      "Au 31 décembre",
-      "Lors des rachats, à l’exception des produits générés par le compartiment euro qui eux sont précomptés au 1 juillet et au 31 décembre de chaque année",
-      "Lors des rachats, qu’il y ait un fonds euro ou non sur le contrat",
-      "Lors des rachats, à l’exception des produits générés par le compartiment euro qui eux sont précomptés chaque 31 décembre"
-    ],
-    "correct": "Lors des rachats, à l’exception des produits générés par le compartiment euro qui eux sont précomptés chaque 31 décembre"
-  },
-  {
-    "question": "Le transfert d’un contrat d’assurance-vie de plus de 8 ans vers un PER donne droit au doublement des abattements liés à la durée de détention jusqu’au :",
-    "options": [
-      "1er janvier 2023",
-      "1er août 2022",
-      "1er octobre 2024",
-      "1er décembre 2025"
-    ],
-    "correct": "1er janvier 2023"
-  },
-  {
-    "question": "Dans le cadre du PEA, la Loi Pacte instaure :",
-    "options": [
-      "La clôture du plan à la suite d’un retrait partiel anticipé pour un licenciement et une invalidité",
-      "La suppression de la possibilité d’effectuer de nouveaux versements en cas de retrait ou de rachat partiel",
-      "La suppression de la clôture automatique du plan dans le cadre de retraits effectués entre la 5ème et la 8ème de détention",
-      "La possibilité de dénouer le plan dans un délai de 3 ans par le versement du capital exonéré fiscalement"
-    ],
-    "correct": "La suppression de la clôture automatique du plan dans le cadre de retraits effectués entre la 5ème et la 8ème de détention"
-  },
-  {
-    "question": "Quelle catégorie d’actions a tendance à distribuer des dividendes importants ?",
-    "options": [
-      "Les valeurs de forte croissance",
-      "Les valeurs offensives",
-      "Les valeurs préférentielles",
-      "Les valeurs de rendement"
-    ],
-    "correct": "Les valeurs de rendement"
-  },
-  {
-    "question": "Le recueil des informations précontractuelles par un assureur est obligatoire pour :",
-    "options": [
-      "Uniquement pour les clients non-résidents en France",
-      "Tous types de clients",
-      "Uniquement pour les personnes morales",
-      "Uniquement pour les personnes physiques"
-    ],
-    "correct": "Tous types de clients"
-  },
-  {
-    "question": "Dans le cadre d’un contrat d’assurance-vie, l’effet cliquet :",
-    "options": [
-      "S’applique uniquement aux contrats en unités de compte",
-      "Impose au souscripteur une durée de détention minimum du contrat",
-      "Est réservé aux contrats mono-support en euros",
-      "Offre à la compagnie d’assurance la possibilité d’augmenter les frais de gestion"
-    ],
-    "correct": "Est réservé aux contrats mono-support en euros"
-  },
-  {
-    "question": "La Directive dite DDA exclut l’obligation de communiquer des informations sur les coûts et les frais lorsqu’il s’agit de contrats :",
-    "options": [
-      "De dépendance souscrits par des professions non salariées",
-      "De prévoyance souscrits par des professions non salariées",
-      "De capitalisation souscrits par des professions non salariées",
-      "D’assurance vie souscrits par des professions non salariées"
-    ],
-    "correct": "De prévoyance souscrits par des professions non salariées"
-  },
-  {
-    "question": "Le bêta financier d’un titre proche de 1 signifie que :",
-    "options": [
-      "La valeur et son indice de référence sont très proches",
-      "La valeur amplifie les variations de son indice de référence",
-      "La valeur diminue les variations de son indice de référence",
-      "La valeur réagit à l’inverse de son indice de référence"
-    ],
-    "correct": "La valeur et son indice de référence sont très proches"
-  },
-  {
-    "question": "Dans le cadre de la fiscalité des produits des actions, l’option pour le barème progressif de l’Impôt sur le Revenu est exercée pour une durée :",
-    "options": [
-      "De 2 ans",
-      "De 5 ans",
-      "De 3 ans",
-      "D’un an"
-    ],
-    "correct": "D’un an"
-  },
-  {
-    "question": "La valeur nominale d’une action correspond :",
-    "options": [
-      "A sa valeur liquidative",
-      "À sa valeur boursière",
-      "À la valeur à laquelle elle a été émise",
-      "À sa valeur de rachat"
-    ],
-    "correct": "À la valeur à laquelle elle a été émise"
-  },
-  {
-    "question": "Dans le cadre d’un contrat d’assurance-vie, quelle est la particularité de l’abattement des 152 500€ ?",
-    "options": [
-      "Il s'applique à tous les héritiers directs",
-      "Il s'applique uniquement au conjoint survivant",
-      "Il s'applique au total des contrats du bénéficiaire",
-      "Il s'applique par bénéficiaire et par assureur"
-    ],
-    "correct": "Il s'applique par bénéficiaire et par assureur"
-  }
+        "question": "Dans le cadre d’une assurance dite forfaitaire, la prestation est :",
+        "option": ["Déterminée après la survenance du sinistre, en fonction de son degré d’importance", "Calculée en fonction du principe de spécialisation", "Fixée à l’avance lors de la souscription du contrat", "Rattachée principalement aux assurances vie ou décès"],
+        "correct": "Fixée à l’avance lors de la souscription du contrat"
+    },
+    {
+        "question": "Dans le cadre d’un contrat de prévoyance, la garantie invalidité prévoit le versement :",
+        "option": ["D’une rente uniquement", "D’un capital ou d’un salaire", "D’une rente ou d’un salaire", "D’une rente ou d’un capital"],
+        "correct": "D’une rente ou d’un capital"
+    },
+    {
+        "question": "Quelle classe d’actifs est l’exception à la relation rendement/risque ?",
+        "option": ["Les obligations", "Le monétaire", "L’or", "L’immobilier"],
+        "correct": "L’or"
+    },
+    {
+        "question": "Dans le cadre d’un démembrement de propriété :",
+        "option": ["L’usufruitier est tenu de supporter les charges exceptionnelles", "Le nu-propriétaire peut utiliser et percevoir les revenus", "L’usufruit peut être cédé à titre onéreux", "Le nu-propriétaire doit effectuer les dépenses de réparation et d’entretien"],
+        "correct": "L’usufruit peut être cédé à titre onéreux"
+    },
+    {
+        "question": "Quel actif du patrimoine des ménages fait partie de la catégorie des actifs non financiers ?",
+        "option": ["Les liquidités", "L’épargne", "Les logements", "Les crédits"],
+        "correct": "Les logements"
+    },
+    {
+        "question": "La dévolution successorale représente :",
+        "option": ["La renonciation sur la succession par l’un des héritiers", "Une succession réalisée sans testament", "La distribution aux héritiers des biens du défunt", "L’action en justice réalisée par l’héritier réservataire"],
+        "correct": "La distribution aux héritiers des biens du défunt"
+    },
+    {
+        "question": "Les assurances gérées en capitalisation :",
+        "option": ["Portent sur des risques constants", "Sont souscrites pour une courte période", "Comportent un aspect lié à l’épargne", "Excluent les contrats de prévoyance collective"],
+        "correct": "Comportent un aspect lié à l’épargne"
+    },
+    {
+        "question": "Dans le cadre d’une donation, qu’est-ce que le rappel fiscal ?",
+        "option": ["Les liens de parenté entre le donateur et le donataire", "Le délai de 15 ans applicable pour toutes donations antérieures", "Le non-paiement des droits de donation", "Le barème de taxation pris en compte pour calculer les droits de mutation en ligne directe"],
+        "correct": "Le délai de 15 ans applicable pour toutes donations antérieures"
+    },
+    {
+        "question": "Dans le cadre de l’impôt à finalité sociale :",
+        "option": ["Les produits de placement sont exonérés de prélèvements sociaux", "La loi de financement de la Sécurité sociale 2020 a mis en place des taux historiques de prélèvements sociaux", "Les prestations familiales et les allocations de logement sont soumises à la CRDS", "La CSG est appliquée aux revenus d’activité et de capitaux"],
+        "correct": "La CSG est appliquée aux revenus d’activité et de capitaux"
+    },
+    {
+        "question": "Conformément à la loi ECKERT, dans le cas où l’inactivité d’un compte résulte du décès de son titulaire, le délai de transfert du solde à la Caisse des dépôts est de :",
+        "option": ["4 ans", "5 ans", "3 ans", "7 ans"],
+        "correct": "3 ans"
+    },
+    {
+        "question": "La volatilité d’une action mesure le rapport :",
+        "option": ["Performance/rendement", "Diversification/risque", "Performance/risque", "Gain/fluctuations"],
+        "correct": "Performance/risque"
+    },
+    {
+        "question": "A la suite du décès d'un nu propriétaire, la nue propriété:",
+        "option": ["est transformée en capital", "est transformée en usufruit", "rejoint automatiquement l'usufruit", "est transmise à ses héritiers"],
+        "correct": "est transmise à ses héritiers"
+    },
+    {
+        "question": "Dans le patrimoine d’un couple marié, les biens propres correspondent :",
+        "option": ["aux biens appartenant à un seul époux", "aux biens démembrés", "aux biens neufs nouvellement acquis", "aux biens détenus en indivision par les époux"],
+        "correct": "aux biens appartenant à un seul époux"
+    },
+    {
+        "question": "Dans le cadre de la dévolution volontaire, la quotité disponible spéciale permet :",
+        "option": ["de donner à ses enfants plus qu’à n’importe qui d’autre", "d’avantager un tiers", "de donner à ses père et mère plus qu’à n’importe qui d’autre", "de donner à son conjoint plus qu’à n’importe qui d’autre"],
+        "correct": "de donner à son conjoint plus qu’à n’importe qui d’autre"
+    },
+    {
+        "question": "Dans le cadre du régime des retraites :",
+        "option": ["Au sein des régimes complémentaires obligatoires, la retraite est calculée sur la base d’unités de compte accumulés", "Le système de retraite français s’appuie sur un mécanisme de répartition", "Le mécanisme de la subrogation permet d’augmenter l’assiette de référence pour le calcul de la pension annuelle", "Le financement de la protection sociale est assuré par une contribution sociale sur les sociétés"],
+        "correct": "Le système de retraite français s’appuie sur un mécanisme de répartition"
+    },
+    {
+        "question": "Dans le cadre de l’épargne logement :",
+        "option": ["La Loi de finances pour 2018 a mis en place la prime à l’Etat pour les PEL ouverts à partir du 1er janvier 2018", "Il n’est pas possible de cumuler un CEL et un PEL", "La banque fournit chaque année un relevé sur le montant des intérêts produits par le PEL", "Le versement initial pour un CEL est de 550€ minimum"],
+        "correct": "La banque fournit chaque année un relevé sur le montant des intérêts produits par le PEL"
+    },
+    {
+        "question": "Si le professionnel se trouve dans l'impossibilité d'identifier clairement un client :",
+        "option": ["Il a l’interdiction d’effectuer une déclaration de soupçon", "Il a l’obligation de laisser un laps de temps au client afin d’apporter des éclaircissements", "Il a l’interdiction d’exécuter l’opération envisagée", "Il a l’interdiction de mettre un terme à la relation d’affaires"],
+        "correct": "Il a l’interdiction d’exécuter l’opération envisagée"
+    },
+    {
+        "question": "Les entreprises qui participent à la production du bien ou du service supportent en partie la charge de la TVA appliquée au produit final.",
+        "option": ["Vrai", "Faux, elles la supportent en totalité", "Faux", "Vrai, uniquement pour les produits ou services à forte valeur ajoutée"],
+        "correct": "Faux"
+    },
+    {
+        "question": "Quelle démarche doit être effectuée pour percevoir un dividende ?",
+        "option": ["Le paiement de l’Imprimé Fiscal Unique", "Le règlement de l’acompte d’impôt lié à la perception du dividende", "La participation à l’assemblée générale des actionnaires", "Aucune démarche n’est à effectuer"],
+        "correct": "Aucune démarche n’est à effectuer"
+    },
+    {
+        "question": "Dans le cadre du régime d’imposition des dividendes versés depuis le 1 janvier 2018, en cas d’option au barème progressif de l’Impôt sur le Revenu, l’investisseur :",
+        "option": ["Bénéficie d’un crédit d’impôt de 30%", "Bénéficie d’une réduction d’impôt de 20%", "Bénéficie d’un abattement de 40%", "Aucune de ces 3 propositions"],
+        "correct": "Bénéficie d’un abattement de 40%"
+    },
+    {
+        "question": "L’Autorité des Marchés Financiers (AMF) est :",
+        "option": ["Une instance qui assure la réception et la transmission d’ordres de bourse", "L’instance qui régit les dispositions législatives et réglementaires du système monétaire et financier", "Un organisme public de contrôle des marchés financiers", "Une filiale d’Euronext"],
+        "correct": "Un organisme public de contrôle des marchés financiers"
+    },
+    {
+        "question": "L’amélioration d’une note financière :",
+        "option": ["Signifie que l’agence de notation recommande l’achat du titre", "Peut influencer le cours du titre à la baisse", "Peut influencer le cours du titre à la hausse", "Signifie que l’agence de notation recommande la vente du titre"],
+        "correct": "Peut influencer le cours du titre à la hausse"
+    },
+    {
+        "question": "Dans le cadre des contrats d'assurance-vie en cas de décès :",
+        "option": ["L’assurance de survie est surtout souscrite par des personnes n’ayant pas d’enfant", "L’assurance temporaire décès garantit le versement d’un capital au décès de l’assuré, si celui-ci intervient après une date déterminée", "L’assurance de survie permet le versement d’un capital, si le bénéficiaire décède avant l’assuré", "L’assurance temporaire décès garantit le versement d’un capital au décès de l’assuré, si celui-ci intervient avant une date déterminée"],
+        "correct": "L’assurance temporaire décès garantit le versement d’un capital au décès de l’assuré, si celui-ci intervient avant une date déterminée"
+    },
+    {
+        "question": "Dans le cadre d’une co-souscription démembrée, les co-souscripteurs sont :",
+        "option": ["L’usufruitier et le nu-propriétaire", "Le nu-propriétaire et l’assuré", "L’usufruitier et son conjoint", "L’usufruitier et ses héritiers"],
+        "correct": "L’usufruitier et le nu-propriétaire"
+    },
+    {
+        "question": "Les contrats dits « à frais précomptés » ont la particularité de :",
+        "option": ["Prélever les frais de gestion annuellement", "Prélever des frais lors de chaque arbitrage", "Prélever l’intégralité des frais de gestion à la sortie du contrat", "Prélever l’intégralité des frais d’entrée dès les premières années du contrat"],
+        "correct": "Prélever l’intégralité des frais d’entrée dès les premières années du contrat"
+    },
+    {
+        "question": "Pour tous contrats dénoués par décès depuis le 1er juillet 2014, les capitaux versés avant les 70 ans de l’assuré au-delà de 852 500 € sont soumis, pour chaque bénéficiaire, à un prélèvement de :",
+        "option": ["25%", "30 500 €", "20%", "31,25%"],
+        "correct": "31,25%"
+    },
+    {
+        "question": "Dans un contrat de capitalisation, la programmation des versements peut être :",
+        "option": ["Semestrielle", "Les 3 propositions", "Mensuelle", "Annuelle"],
+        "correct": "Les 3 propositions"
+    },
+    {
+        "question": "Dans le cadre du PER d’entreprise obligatoire :",
+        "option": ["Il est ouvert à tous les salariés", "Il succède au PERP", "L’épargne cumulée n’est pas transférable sur un autre PER", "Les droits issus des versements obligatoires sont liquidés nécessairement sous forme de capital"],
+        "correct": "Il est ouvert à tous les salariés"
+    },
+    {
+        "question": "Dans le cadre du régime d’imposition des dividendes versés depuis le 1er janvier 2018 :",
+        "option": ["Les prélèvements sociaux ne sont pas applicables", "L’abattement en cas d’option au barème progressif de l’Impôt sur le Revenu a été supprimé", "L’option au barème progressif de l’Impôt sur le Revenu a été supprimé", "Le taux forfaitaire d’Impôt sur le Revenu applicable est de 12,8%"],
+        "correct": "Le taux forfaitaire d’Impôt sur le Revenu applicable est de 12,8%"
+    },
+    {
+        "question": "Dans le cadre du PEA :",
+        "option": ["Le montant des versements est en principe limité à 150 000€", "Le compte espèces peut être débiteur", "Le plafond de versement est apprécié en fonction du montant des avoirs globaux capitalisés", "Le titulaire du PEA ne peut pas transférer le plan"],
+        "correct": "Le montant des versements est en principe limité à 150 000€"
+    },
+    {
+        "question": "Dans le cadre d’un PEP :",
+        "option": ["Le PEP bancaire permet à son titulaire d’effectuer des avances", "Les retraits sont obligatoirement programmés", "Le transfert d’un PEP entraine la perte de l’antériorité fiscale de celui-ci", "Le capital est garanti"],
+        "correct": "Le capital est garanti"
+    },
+    {
+        "question": "Les versements sur un contrat Madelin doivent avoir lieu :",
+        "option": ["Tous les mois", "Il n’y a pas d’obligation en matière de versements", "Au moins 2 fois / an", "Au moins 1 fois / an"],
+        "correct": "Au moins 1 fois / an"
+    },
+    {
+        "question": "Dans le cadre d’un PERP :",
+        "option": ["Le contrat est exempté de frais", "La rente est obligatoirement calculée avec un taux technique de 100%", "Le souscripteur reçoit chaque année un relevé de compte individuel", "La sortie de l’épargne s’effectue en principe en capital"],
+        "correct": "Le souscripteur reçoit chaque année un relevé de compte individuel"
+    },
+    {
+        "question": "Dans le cadre du PER :",
+        "option": ["La sortie en capital est impossible", "Le PER est un produit d’épargne à court terme", "Le déblocage anticipé pour l’acquisition de la résidence principale est prévu", "La gestion sous mandat est la modalité de gestion par défaut"],
+        "correct": "Le déblocage anticipé pour l’acquisition de la résidence principale est prévu"
+    },
+    {
+        "question": "Quel est l’organe de supervision français des Banques et des Assurances ?",
+        "option": ["Le Ministère des finances", "La Banque de France", "L’ACPR", "L’AMF"],
+        "correct": "L’ACPR"
+    },
+    {
+        "question": "La valeur acquise d’un capital est :",
+        "option": ["Sa valeur actuelle + les intérêts produits", "Sa valeur nominale – les intérêts produits", "Sa valeur nominale + les intérêts produits", "Sa valeur acquise - les intérêts produits"],
+        "correct": "Sa valeur nominale + les intérêts produits"
+    },
+    {
+        "question": "La convention AERAS prévoit un mécanisme de limitation des surprimes. Cela concerne l’emprunteur :",
+        "option": ["De plus de 45 ans", "N’ayant jamais été propriétaire de sa résidence principale", "Aux revenus modestes", "Ayant au moins 20% d’apport personnel"],
+        "correct": "Aux revenus modestes"
+    },
+    {
+        "question": "En matière de santé, la franchise ou la participation forfaitaire des dépenses réelles des assurés sont prises en charge par :",
+        "option": ["Les contrats de complémentaire santé", "L’assurance maladie obligatoire", "La garantie des accidents de la vie", "L’assuré lui-même"],
+        "correct": "L’assuré lui-même"
+    },
+    {
+        "question": "Lorsqu’un état de dépendance totale est reconnu, le versement :",
+        "option": ["100% du montant prévu par le contrat", "50% du montant prévu par le contrat", "66% du montant prévu par le contrat", "70% du montant prévu par le contrat"],
+        "correct": "100% du montant prévu par le contrat"
+    },
+    {
+        "question": "Si un assuré de bonne foi remet une déclaration de risque inexacte ou incomplète, cela entraine :",
+        "option": ["Une nullité immédiate de son contrat et donc de ses garanties", "Une éventuelle résiliation par l’assureur dans un délai de 10 jours", "Un remboursement immédiat des primes échues à l’assureur", "Une augmentation de l’indemnité en proportion du taux des primes payées"],
+        "correct": "Une éventuelle résiliation par l’assureur dans un délai de 10 jours"
+    },
+    {
+        "question": "Si un assuré souhaite revenir sur sa décision de transformer son contrat d’assurance vie monosupport en contrat multisupports, il dispose d’un délai :",
+        "option": ["De 2 mois à compter de sa demande de conversion", "D’1 mois à compter de sa demande de conversion", "De 3 mois à compter de sa demande de conversion", "De 15 jours à compter de sa demande de conversion"],
+        "correct": "D’1 mois à compter de sa demande de conversion"
+    },
+    {
+        "question": "Si le client d’un PSI choisi de réaliser un investissement risqué, il doit idéalement choisir un horizon de placement :",
+        "option": ["Sur le long terme", "De courte durée", "Qui lui permet de disposer du capital placé", "Qui offre une très grande volatilité"],
+        "correct": "Sur le long terme"
+    },
+    {
+        "question": "Le montant des franchises d’un contrat d’assurance :",
+        "option": ["Conditionne directement les cotisations", "Est indemnitaire à la charge de l’assureur", "Est forfaitaire et à la charge de l’assuré", "Est déduit de l’indemnité due par l’assuré"],
+        "correct": "Est forfaitaire et à la charge de l’assuré"
+    },
+    {
+        "question": "Les contrats d’assurance de responsabilité civile :",
+        "option": ["Couvrent les risques qui portent atteinte à la personne dans son existence et son intégrité physique", "Correspondent à la garantie minimale souscrite afin de protéger le patrimoine de l’assuré", "Garantissent les tiers contre les risques de décès, d’incapacité de travail et de perte d’emploi", "Prévoient le versement d’une rente ou d’un capital en cas de préjudice causé à un tiers"],
+        "correct": "Prévoient le versement d’une rente ou d’un capital en cas de préjudice causé à un tiers"
+    },
+    {
+        "question": "Dans le cadre des impôts directs et indirects :",
+        "option": ["La taxe sur la valeur ajoutée est un impôt direct", "La taxe d’habitation est un impôt indirect", "La taxe sur la valeur ajoutée est un impôt et non une taxe", "Avec les impôts directs, le redevable est distinct du contribuable"],
+        "correct": "La taxe sur la valeur ajoutée est un impôt et non une taxe"
+    },
+    {
+        "question": "Quelle définition correspond au mieux à la CSG ?",
+        "option": ["Il s’agit d’un impôt indirect proportionnel prélevé sur certaines catégories de revenus", "Il s’agit d’un prélèvement de nature fiscale dont l’objet est social", "Il s’agit d’une taxe fixe applicable uniquement sur les valeurs mobilières et des plus-values de cession de valeurs mobilières", "Il s’agit d’un impôt direct calculé sur l’assiette des bénéfices réalisés par une entreprise"],
+        "correct": "Il s’agit d’un prélèvement de nature fiscale dont l’objet est social"
+    },
+    {
+        "question": "Pour les contrats multisupports, les prélèvements sociaux sont dus :",
+        "option": ["Au 31 décembre", "Lors des rachats, à l’exception des produits générés par le compartiment euro qui eux sont précomptés au 1 juillet et au 31 décembre de chaque année", "Lors des rachats, qu’il y ait un fonds euro ou non sur le contrat", "Lors des rachats, à l’exception des produits générés par le compartiment euro qui eux sont précomptés chaque 31 décembre"],
+        "correct": "Lors des rachats, à l’exception des produits générés par le compartiment euro qui eux sont précomptés chaque 31 décembre"
+    },
+    {
+        "question": "Le transfert d’un contrat d’assurance-vie de plus de 8 ans vers un PER donne droit au doublement des abattements liés à la durée de détention jusqu’au :",
+        "option": ["1er janvier 2023", "1er août 2022", "1er octobre 2024", "1er décembre 2025"],
+        "correct": "1er janvier 2023"
+    },
+    {
+        "question": "Dans le cadre du PEA, la Loi Pacte instaure :",
+        "option": ["La clôture du plan à la suite d’un retrait partiel anticipé pour un licenciement et une invalidité", "La suppression de la possibilité d’effectuer de nouveaux versements en cas de retrait ou de rachat partiel", "La suppression de la clôture automatique du plan dans le cadre de retraits effectués entre la 5ème et la 8ème de détention", "La possibilité de dénouer le plan dans un délai de 3 ans par le versement du capital exonéré fiscalement"],
+        "correct": "La suppression de la clôture automatique du plan dans le cadre de retraits effectués entre la 5ème et la 8ème de détention"
+    },
+    {
+        "question": "Quelle catégorie d’actions a tendance à distribuer des dividendes importants ?",
+        "option": ["Les valeurs de forte croissance", "Les valeurs offensives", "Les valeurs préférentielles", "Les valeurs de rendement"],
+        "correct": "Les valeurs de rendement"
+    },
+    {
+        "question": "Le recueil des informations précontractuelles par un assureur est obligatoire pour :",
+        "option": ["Uniquement pour les clients non-résidents en France", "Tous types de clients", "Uniquement pour les personnes morales", "Uniquement pour les personnes physiques"],
+        "correct": "Tous types de clients"
+    },
+    {
+        "question": "Dans le cadre d’un contrat d’assurance-vie, l’effet cliquet :",
+        "option": ["S’applique uniquement aux contrats en unités de compte", "Impose au souscripteur une durée de détention minimum du contrat", "Est réservé aux contrats mono-support en euros", "Offre à la compagnie d’assurance la possibilité d’augmenter les frais de gestion"],
+        "correct": "Est réservé aux contrats mono-support en euros"
+    },
+    {
+        "question": "La Directive dite DDA exclut l’obligation de communiquer des informations sur les coûts et les frais lorsqu’il s’agit de contrats :",
+        "option": ["De dépendance souscrits par des professions non salariées", "De prévoyance souscrits par des professions non salariées", "De capitalisation souscrits par des professions non salariées", "D’assurance vie souscrits par des professions non salariées"],
+        "correct": "De prévoyance souscrits par des professions non salariées"
+    },
+    {
+        "question": "Le bêta financier d’un titre proche de 1 signifie que :",
+        "option": ["La valeur et son indice de référence sont très proches", "La valeur amplifie les variations de son indice de référence", "La valeur diminue les variations de son indice de référence", "La valeur réagit à l’inverse de son indice de référence"],
+        "correct": "La valeur et son indice de référence sont très proches"
+    },
+    {
+        "question": "Dans le cadre de la fiscalité des produits des actions, l’option pour le barème progressif de l’Impôt sur le Revenu est exercée pour une durée :",
+        "option": ["De 2 ans", "De 5 ans", "De 3 ans", "D’un an"],
+        "correct": "D’un an"
+    },
+    {
+        "question": "La valeur nominale d’une action correspond :",
+        "option": ["A sa valeur liquidative", "À sa valeur boursière", "À la valeur à laquelle elle a été émise", "À sa valeur de rachat"],
+        "correct": "À la valeur à laquelle elle a été émise"
+    },
+    {
+        "question": "Dans le cadre d’un contrat d’assurance-vie, quelle est la particularité de l’abattement des 152 500€ ?",
+        "option": ["Si une même personne bénéficie de plusieurs contrats, l’abattement s’applique indépendamment sur chaque contrat", "Il est applicable autant de fois qu’il y a de bénéficiaires", "Il est applicable aux primes versées après les 70 ans de l’assuré", "Il n’est pas applicable dans le cadre d’un contrat d’assurance vie démembré"],
+        "correct": "Il est applicable autant de fois qu’il y a de bénéficiaires"
+    },
+    {
+        "question": "Si un contrat d’assurance complémentaire santé évolue dans le temps, l’assureur doit :",
+        "option": ["Réviser les cotisations en raison d’un changement de tranche d’âge", "Majorer le tarif en cours de contrat pour mieux assurer l’événement", "Réduire les garanties lorsque le risque devient trop grand", "Réaliser un ajustement mensuel des garanties et des cotisations sur la base d’un indice"],
+        "correct": "Réviser les cotisations en raison d’un changement de tranche d’âge"
+    },
+    {
+        "question": "Au sein d’un contrat d’assurance-vie, en cas de moins-values :",
+        "option": ["Ces dernières sont possibles uniquement pour les contrats fonds euros", "Le PFL s’applique obligatoirement", "Le titulaire du contrat peut les imputer sur son revenu brut global", "La base d’imposition à l’impôt sur le revenu est nulle"],
+        "correct": "La base d’imposition à l’impôt sur le revenu est nulle"
+    },
+    {
+        "question": "Dans le cadre du PER :",
+        "option": ["La gestion libre s’applique automatiquement", "L’épargne cumulée est intégralement portable d’un produit à l’autre", "L’épargne cumulée est une épargne à court terme", "Les frais de transfert sont obligatoirement de 1% des droits acquis"],
+        "correct": "L’épargne cumulée est intégralement portable d’un produit à l’autre"
+    },
+    {
+        "question": "Dans le cadre de son obligation d’information, quel élément l’intermédiaire a-t-il l’obligation de fournir au souscripteur éventuel ?",
+        "option": ["Son identité", "Son adresse professionnelle", "Son numéro d’immatriculation auprès de l’ACPR", "Son âge"],
+        "correct": "Son identité"
+    },
+    {
+        "question": "Dans le cadre d’un contrat de capitalisation, pour les contrats d’une durée inférieure à 8 ans, le PFO est fixé à :",
+        "option": ["21%", "15%", "12,8%", "7,5%"],
+        "correct": "12,8%"
+    },
+    {
+        "question": "En matière d’assurances de biens et de responsabilités, lorsque le risque assurable vient à s’aggraver en cours de contrat, les garanties reprennent effet :",
+        "option": ["Une fois que l’assureur a renouvelé le contrat pour y inclure le nouveau risque", "A l’issue de la déclaration ultérieure d’aggravation du risque", "A partir du moment où le souscripteur prend connaissance des circonstances aggravantes", "Dans les 15 jours suivant la déclaration des circonstances aggravantes"],
+        "correct": "A l’issue de la déclaration ultérieure d’aggravation du risque"
+    },
+    {
+        "question": "Les contrats d’assurance vie permettent de réaliser une gestion profilée, c’est-à-dire :",
+        "option": ["L’analyse de la meilleure rentabilité possible", "La gestion du placement par un tiers", "La composition d’un portefeuille à la carte", "La sélection du profil de risque du client"],
+        "correct": "La sélection du profil de risque du client"
+    },
+    {
+        "question": "Conformément à la loi ECKERT, les banques et les assurances ont l’obligation de transférer le solde des comptes inactifs à la Caisse des dépôts à l’issue d’un délai de :",
+        "option": ["15 ans d’inactivité", "50 ans d’inactivité", "30 ans d’inactivité", "10 ans d’inactivité"],
+        "correct": "10 ans d’inactivité"
+    },
+    {
+        "question": "Les informations concernant un contrat d’assurance sont adressées à l’assuré :",
+        "option": ["Lors d’un rendez-vous physique au siège de l’organisme assureur", "Obligatoirement sur un support durable", "Par n’importe quel moyen de communication", "Par internet sans accord préalable du client"],
+        "correct": "Obligatoirement sur un support durable"
+    },
+    {
+        "question": "Un contrat responsable doit prendre en charge :",
+        "option": ["Au moins 30% du montant des médicaments à vignette blanche", "Au moins 40% du montant des médicaments à vignette blanche", "Au moins 35% du montant des médicaments à vignette blanche", "Au moins 45% du montant des médicaments à vignette blanche"],
+        "correct": "Au moins 30% du montant des médicaments à vignette blanche"
+    },
+    {
+        "question": "Sous quelle condition un bénéficiaire non prioritaire peut demander le paiement d’un capital décès ?",
+        "option": ["Si le bénéficiaire prioritaire ne se manifeste pas au plus tard 2 ans après le décès de l’assuré", "Il ne peut jamais demander le paiement du capital au même titre que le bénéficiaire prioritaire", "Si le bénéficiaire prioritaire décède au plus tôt 1 mois après le décès de l’assuré", "Si le bénéficiaire prioritaire ne se manifeste pas au plus tard 1 mois après le décès de l’assuré"],
+        "correct": "Si le bénéficiaire prioritaire ne se manifeste pas au plus tard 1 mois après le décès de l’assuré"
+    },
+    {
+        "question": "Dans le cadre des intérêts :",
+        "option": ["Les intérêts composés génèrent des intérêts qui sont soustraits au capital", "Les intérêts simples sont utilisés pour des opérations de court terme", "Les intérêts simples sont eux-mêmes producteurs d’intérêts", "Les intérêts simples sont utilisés pour des opérations de long terme"],
+        "correct": "Les intérêts simples sont utilisés pour des opérations de court terme"
+    },
+    {
+        "question": "Le fonds en euros est majoritairement composé :",
+        "option": ["De titres monétaires", "D’actions", "D’immobilier", "D’obligations"],
+        "correct": "D’obligations"
+    },
+    {
+        "question": "Quelle est la durée maximum d’un contrat de capitalisation ?",
+        "option": ["15 ans", "30 ans", "20 ans", "10 ans"],
+        "correct": "30 ans"
+    },
+    {
+        "question": "Au moment de la retraite, la sortie du PERP peut s’effectuer en capital :",
+        "option": ["Quand le montant de la rente est inférieur à 4 000 €/an", "Quand le montant de la rente est inférieur à 400 €/mois", "Quand le retraité souhaite utiliser le capital comme apport pour l’acquisition d’un nouveau bien immobilier", "Quand le retraité souhaite utiliser le capital comme apport pour l’acquisition de sa première résidence principale"],
+        "correct": "Quand le retraité souhaite utiliser le capital comme apport pour l’acquisition de sa première résidence principale"
+    },
+    {
+        "question": "La « garantie de reconstitution » d'un contrat Madelin est une rente versée aux bénéficiaires désignés en cas de décès du souscripteur calculée sur :",
+        "option": ["Les cotisations versées avant le décès et le nombre d’années de détention du contrat", "Les cotisations versées avant le décès et l’âge du souscripteur au moment du décès", "Les cotisations versées avant le décès et celles qui auraient dû être versées jusqu'au départ à la retraite", "Uniquement sur les cotisations versées avant le décès"],
+        "correct": "Les cotisations versées avant le décès et celles qui auraient dû être versées jusqu'au départ à la retraite"
+    },
+    {
+        "question": "La sortie d’un PEP bancaire :",
+        "option": ["S’effectue en capital ou en rente viagère, au choix du souscripteur", "S’effectue pour une partie en rente viagère et pour l’autre partie en capital", "S’effectue uniquement en capital", "S’effectue uniquement en rente viagère"],
+        "correct": "S’effectue uniquement en capital"
+    },
+    {
+        "question": "Un PEA :",
+        "option": ["Garantit le capital initial", "Bénéficie d’un taux de rémunération réglementé", "Procure certains avantages fiscaux", "Offre un rendement garanti"],
+        "correct": "Procure certains avantages fiscaux"
+    },
+    {
+        "question": "En cas d'option pour le prélèvement forfaitaire unique, les produits des contrats d'assurance-vie ayant une durée courue de moins de 8 ans, correspondant à des versements effectués à compter du 27/09/2017 sont soumis :",
+        "option": ["Au taux de 7,5% et prélèvements sociaux", "Au taux global de 35%", "Au taux de 12,8% et prélèvements sociaux", "Obligatoirement au barème progressif de l’impôt sur le revenu"],
+        "correct": "Au taux de 12,8% et prélèvements sociaux"
+    },
+    {
+        "question": "La co-souscription d’un contrat d’assurance-vie est possible pour :",
+        "option": ["Les couples mariés sous le régime de la séparation de biens", "Les personnes vivant en union libre", "Les personnes pacsées", "Les couples mariés sous le régime légal"],
+        "correct": "Les couples mariés sous le régime légal"
+    },
+    {
+        "question": "Dans le cadre d’une rente viagère certaine d’un contrat d’assurance vie en cas de vie, le versement de la rente cesse :",
+        "option": ["Au terme d’une durée définie, que le bénéficiaire soit en vie ou pas", "Lorsque le bénéficiaire atteint un âge défini", "Au moment du décès du bénéficiaire", "Aux décès du bénéficiaire et de la personne désignée en cas de décès de l’assuré"],
+        "correct": "Au terme d’une durée définie, que le bénéficiaire soit en vie ou pas"
+    },
+    {
+        "question": "Qu’est ce que le risque de change ?",
+        "option": ["Le risqué lié à la variation du cours d’une devise par rapport à une autre monnaie de référence", "Le risqué lié à l’impossibilité de vendre destitres en raison de l’inexistence du marché pour cette valeur", "Le risqué lié à l’incertitude quant à la possibilité pour les investisseurs de remplir leurs obligations", "Le risqué lié à la variation du prix ou la valorisation de cet actif resultant d’une variation du taux d’intérêt"],
+        "correct": "Le risqué lié à la variation du cours d’une devise par rapport à une autre monnaie de référence"
+    },
+    {
+        "question": "L’Euronext Growth est le marché financier destiné aux :",
+        "option": ["TPE", "PME", "Multinationales", "Sociétés technologiques"],
+        "correct": "PME"
+    },
+    {
+        "question": "La valeur nominale d’une action est :",
+        "option": ["La part de dividende reçue par l’actionnaire", "La valeur boursière d’une part de société admise sur le CAC 40", "La fraction du capital d’une société", "Le support de détention des actions émises"],
+        "correct": "La fraction du capital d’une société"
+    },
+    {
+        "question": "Dans le cadre de l’Impôt sur le Revenu des personnes physiques :",
+        "option": ["L’Impôt sur le Revenu est un impôt partiel et non global", "Les rémunérations des dirigeants des SARL sont soumises à une imposition distincte à celle des traitements et salaires", "L’imposition est établie au niveau du foyer fiscal", "Les plus-values mobilières sont soumises à la proportionnalité de l’Impôt sur le Revenu"],
+        "correct": "L’imposition est établie au niveau du foyer fiscal"
+    },
+    {
+        "question": "Les actes d’investigation correspondent :",
+        "option": ["Aux accords de l’ACPR et du Tracfin pour caractériser le soupçon du professionnel", "Au pouvoir disciplinaire de l’ACPR", "Aux orientations transmises à la Commission national des sanctions", "A des recherches documentaires destinées à enrichir le soupçon déclaré par le professionnel"],
+        "correct": "A des recherches documentaires destinées à enrichir le soupçon déclaré par le professionnel"
+    },
+    {
+        "question": "La durée minimum de placement d’un PEL est de :",
+        "option": ["8 ans", "4 ans", "1 an", "12 ans"],
+        "correct": "4 ans"
+    },
+    {
+        "question": "La protection sociale est définie par tous les mécanismes de prévoyance collective qui permettent aux individus et aux ménages :",
+        "option": ["D’obtenir des ressources complémentaires", "De bénéficier d’une retraite garantie", "D’obtenir une couverture sociale universelle", "De faire face financièrement aux conséquences des risques sociaux qu’ils rencontrent"],
+        "correct": "De faire face financièrement aux conséquences des risques sociaux qu’ils rencontrent"
+    },
+    {
+        "question": "Lorsqu’un défunt laisse un conjoint survivant et des enfants, le conjoint survivant peut :",
+        "option": ["Choisir les ¾ de la succession en nue-propriété", "Choisir la totalité de la succession en usufruit", "Choisir la totalité de la succession en pleine propriété", "Choisir les ¼ de la succession en nue-propriété"],
+        "correct": "Choisir la totalité de la succession en usufruit"
+    },
+    {
+        "question": "Dans un régime de séparation de biens, les biens acquis par les deux époux pendant le mariage sont :",
+        "option": ["des biens démembrés", "des biens séparés", "des biens communs", "des biens indivis"],
+        "correct": "des biens indivis"
+    },
+    {
+        "question": "Dans le cadre du pouvoir de décision sur le patrimoine, quel acte constitue un acte d’administration ?",
+        "option": ["La vente d’un bien", "La donation d’un montant inférieur à 100 000€", "La conclusion d’un bail", "La réparation du bien immobilier"],
+        "correct": "La conclusion d’un bail"
+    },
+    {
+        "question": "Dans le cadre de la fiscalité d’un contrat d’assurance-vie, les primes versées avant les 70 ans de l’assuré bénéficient :",
+        "option": ["D’un abattement de 100 000 € par contrat", "D’un abattement de 152 500 € par bénéficiaire", "D’un abattement de 152 500 € par contrat", "D’un abattement de 100 000 € par bénéficiaire"],
+        "correct": "D’un abattement de 152 500 € par bénéficiaire"
+    },
+    {
+        "question": "Les droits d’enregistrement sont calculés sur la base d’imposition de :",
+        "option": ["Le prix d’acquisition du bien meuble", "La valeur vénale des biens au jour de l’acte", "Le montant de l’Impôt sur le Revenu inscrit sur l’avis d’imposition", "Le bénéfice réalisé par la société soumise à l’Impôt sur les sociétés"],
+        "correct": "La valeur vénale des biens au jour de l’acte"
+    },
+    {
+        "question": "Quelle est l’autre appellation des instruments financiers à terme ?",
+        "option": ["Les titres vifs", "Les produits dérivés", "Les organismes de placement financiers", "Les titres de créance"],
+        "correct": "Les produits dérivés"
+    },
+    {
+        "question": "Quel support d’investissement constitue un support monétaire ?",
+        "option": ["Les actions", "Les produits dérivés", "Les obligations d’Etat à long terme", "Les titres de créances négociables"],
+        "correct": "Les titres de créances négociables"
+    },
+    {
+        "question": "La volatilité :",
+        "option": ["Mesure la sensibilité du produit financier par rapport au marché", "Indique le rendement net d’un instrument financier", "Détermine en temps réel le montant maximal de perte sur une période donnée", "Est l’ampleur de variation du cours d’un actif financier par rapport à sa moyenne"],
+        "correct": "Est l’ampleur de variation du cours d’un actif financier par rapport à sa moyenne"
+    },
+    {
+        "question": "La protection sociale des travailleurs indépendants est dénommée :",
+        "option": ["La sécurité sociale des indépendants", "Le régime des professionnels des indépendants", "La sécurité Indépendante sociale", "Le régime indépendant des travailleurs"],
+        "correct": "La sécurité sociale des indépendants"
+    },
+    {
+        "question": "Que signifie le sigle SICAV ?",
+        "option": ["Société d’investissement à capital avance de valeurs", "Société immobilière à capital avancé variable", "Société d’investissement à capital variable", "Société immobilière à capital de valeurs mobilières"],
+        "correct": "Société d’investissement à capital variable"
+    },
+    {
+        "question": "Dans le cadre des régimes matrimoniaux :",
+        "option": ["Ils se classent en 3 catégories : les communautaires, les séparatistes et les individuels", "Le droit français laisse la liberté aux époux de choisir leur régime", "Les règles relatives aux régimes matrimoniaux n’ont aucune incidence sur l’acquisition d’un bien immobilier", "Le choix du régime matrimonial ne peut être modifié au cours du mariage"],
+        "correct": "Le droit français laisse la liberté aux époux de choisir leur régime"
+    },
+    {
+        "question": "Un frère et une sœur sont parents au :",
+        "option": ["1er degré", "2ème degré", "4ème degré", "3ème degré"],
+        "correct": "2ème degré"
+    },
+    {
+        "question": "Pour le régime de base des salariés, l’assiette servant de référence pour le calcul de la pension annuelle du régime général de la Sécurité sociale est :",
+        "option": ["le salaire annuel moyen de la dernière année", "le salaire annuel moyen des 25 meilleures années", "le salaire annuel moyen des 5 dernières années", "le salaire annuel moyen des 25 dernières années"],
+        "correct": "le salaire annuel moyen des 25 meilleures années"
+    },
+    {
+        "question": "Dans le cadre de l’épargne logement :",
+        "option": ["Il est possible de transformer son PEL en CEL", "Il possible de transférer ses droits à prêt d’un CEL à un membre de sa famille ne détenant pas lui-même de CEL", "Le transfert d’un CEL existant dans un autre établissement est impossible", "Il est possible de transformer son CEL en PEL"],
+        "correct": "Il est possible de transformer son PEL en CEL"
+    },
+    {
+        "question": "Dans le cadre des acteurs institutionnels de la LCB/FT :",
+        "option": ["L’ACPR est en charge du volet répress if de la lutte contre le blanchiment de capitaux", "Le secret bancaire n’est pas opposable à Tracfin", "L’OCRGDF est placé au sein du Ministère de la Justice", "Le GAFI reçoit et analyse les déclarations de soupçon provenant des professions assujetties"],
+        "correct": "Le secret bancaire n’est pas opposable à Tracfin"
+    },
+    {
+        "question": "La contribution sociale généralisée s’applique :",
+        "option": ["Aux indemnités journalières", "A la TVA", "Aux allocations chômage", "Aux revenus d’activité"],
+        "correct": "Aux revenus d’activité"
+    },
+    {
+        "question": "Contrairement à l’impôt sur le revenu, peuvent être imposées ensemble à l’impôt sur la fortune immobilière :",
+        "option": ["Les personnes pacsées", "Les personnes vivant en concubinage", "Les personnes mariées", "Les personnes non mariées sous le régime légal"],
+        "correct": "Les personnes vivant en concubinage"
+    },
+    {
+        "question": "Qu’est ce qu’un contrat rente survie ?",
+        "option": ["Un contrat d’assurance vie souscrit par les parents au bénéfice d’un enfant atteint d’une infirmité", "Un contrat d’assurance décès souscrit par l’un des époux au bénéfice de son époux atteint d’une infirmité", "Un contrat d’assurance décès souscrit par les parents au bénéfice d’un enfant atteint d’une infirmité", "Un contrat d’assurance vie souscrit par l’un des époux au bénéfice de son époux atteint d’une infirmité"],
+        "correct": "Un contrat d’assurance décès souscrit par les parents au bénéfice d’un enfant atteint d’une infirmité"
+    },
+    {
+        "question": "Dans le cadre de l’Impôt sur le Revenu des personnes physiques",
+        "option": ["Les rémunérations des dirigeants des SARL sont soumises à une imposition distincte à celle des traitements et salaires", "L’imposition est établie au niveau du foyer fiscal", "L’Impôt sur le Revenu est un impôt partiel et non global", "Les plus-values mobilières sont soumises à la proportionnalité de l’Impôt sur le Revenu"],
+        "correct": "L’imposition est établie au niveau du foyer fiscal"
+    },
+    {
+        "question": "Dans le cadre des actions :",
+        "option": ["Les actions sont des valeurs immobilières émises par des sociétés de capitaux", "La valeur nominale d’une action correspond à la valeur à laquelle a été émise l’action", "Seules les sociétés anonymes peuvent émettent des actions", "Les actions confèrent à leur titulaire un droit de créance sur l’entreprise"],
+        "correct": "La valeur nominale d’une action correspond à la valeur à laquelle a été émise l’action"
+    },
+    {
+        "question": "Depuis le 1er janvier 2018, les plus-values de la cession d’actions :",
+        "option": ["Supportent un prélèvement forfaitaire unique de 18,2%", "Sont exonérées de prélèvements sociaux", "Supportent un prélèvement forfaitaire unique de 30%", "Sont soumises obligatoirement au barème progressif de l'Impôt sur le Revenu"],
+        "correct": "Supportent un prélèvement forfaitaire unique de 30%"
+    },
+    {
+        "question": "Le marché réglementé qui regroupe toutes les valeurs cotées à la Bourse de Paris se nomme :",
+        "option": ["L’EURONEXT GROWTH", "L’EURIBOR", "Le MONEP", "L’EUROLIST"],
+        "correct": "L’EUROLIST"
+    },
+    {
+        "question": "Le marché réglementé qui regroupe toutes les valeurs cotées à la Bourse de Paris se nomme :",
+        "option": ["L’EURONEXT GROWTH", "L’EURIBOR", "Le MONEP", "L’EUROLIST"],
+        "correct": "L’EUROLIST"
+    },
+    {
+        "question": "Dans le cadre de l ’horizon de placement:",
+        "option": ["Investir sur du long terme permet de s’orienter advantage sur des fonds obligataires", "En investissant sur du long terme, l’investisseur est plus sensible aux variations des marchés sur la durée", "Plus l’horizon d’investissement est lointain, moins la prise de risque est importante", "L ’horizon de placement est indissociable du profil de l’investisseur"],
+        "correct": "L ’horizon de placement est indissociable du profil de l’investisseur"
+    },
+    {
+        "question": "Les principes fondamentaux de l’assurance-vie sont régis par :",
+        "option": ["Le Code de Commerce", "Le Code des assurances", "Le Code de la consommation", "Le Code Civil"],
+        "correct": "Le Code des assurances"
+    },
+    {
+        "question": "En l'absence de clause bénéficiaire, le capital versé par l'assureur :",
+        "option": ["Revient en totalité à l’état", "Intègre la succession de l'assuré et ne bénéficie pas du régime fiscal favorable aux contrats d'assurance vie", "Revient automatiquement au conjoint survivant, et à défaut à l’état", "Est partagé pour moitié entre les héritiers légaux et l’état"],
+        "correct": "Intègre la succession de l'assuré et ne bénéficie pas du régime fiscal favorable aux contrats d'assurance vie"
+    },
+    {
+        "question": "Au sein d’un contrat d’assurance-vie, l’arbitrage consiste :",
+        "option": ["A transférer en cours de vie du contrat tout ou partie de son épargne d’un support vers un autre support", "A effectuer des versements programmés", "A obtenir au terme du contrat, le versement de l’épargne constituée en capital", "A permettre au souscripteur, l’exonération de tous les frais inhérents au contrat"],
+        "correct": "A transférer en cours de vie du contrat tout ou partie de son épargne d’un support vers un autre support"
+    },
+    {
+        "question": "Un contrat d'assurance-vie se dénoue directement par le versement d’une rente viagère. Les produits capitalisés :",
+        "option": ["Sont soumis uniquement aux prélèvements sociaux", "Sont exonérés d’impôt et de prélèvements sociaux", "Sont exonérés de prélèvements sociaux et sont imposés avec un PFL de 7,5%", "Sont soumis à l’impôt sur le revenu qui est calculé en fonction de l’âge du souscripteur"],
+        "correct": "Sont exonérés d’impôt et de prélèvements sociaux"
+    },
+    {
+        "question": "Le contrat de capitalisation :",
+        "option": ["Ne comporte aucun aléa puisqu’il ne recouvre aucun risque", "La rente est exonérée de droits de succession", "La rente ne peut jamais être donnée en nantissement pour garantir un prêt", "Est un produit de placement à court terme"],
+        "correct": "Ne comporte aucun aléa puisqu’il ne recouvre aucun risque"
+    },
+    {
+        "question": "Le plafond de versement du PEP est de :",
+        "option": ["150 000 € hors intérêts", "92 000 € hors intérêts", "150 000 € avec intérêts", "92 000 € avec intérêts"],
+        "correct": "92 000 € hors intérêts"
+    },
+    {
+        "question": "La rente d’un contrat Madelin :",
+        "option": ["Est imposable à l’IR dans la catégorie « rente viagère à titre onéreux »", "Est soumise à un abattement de 20%", "Est imposable à l’IR dans la catégorie « pensions et retraites »", "Est imposable à l’IR uniquement au-dessus d’un certain seuil"],
+        "correct": "Est imposable à l’IR dans la catégorie « pensions et retraites »"
+    },
+    {
+        "question": "Après la souscription du PERP, le souscripteur :",
+        "option": ["Dispose d’un délai de rétractation de 7 jours", "Dispose d’un délai de renonciation de 11 jours", "Dispose d’un délai de renonciation de 30 jours", "Ne dispose d’aucun délai de renonciation"],
+        "correct": "Dispose d’un délai de renonciation de 30 jours"
+    },
+    {
+        "question": "Quelle est la conséquence d’un transfert d'un PER sur un autre PER ?",
+        "option": ["Une augmentation automatique des frais de gestion", "La modification de la liquidation des droits", "Aucune de ces propositions", "La transformation des conditions de rachat"],
+        "correct": "Aucune de ces propositions"
+    },
+    {
+        "question": "Les sanctions disciplinaires de l’ACPR :",
+        "option": ["Se limitent au blâme", "Ne peuvent pas être pécuniaires", "Peuvent aller de l’avertissement à l’interdiction de pratiquer l’activité d’intermédiation", "Ne concernent pas les dirigeants de l’intermédiaire d’assurance"],
+        "correct": "Peuvent aller de l’avertissement à l’interdiction de pratiquer l’activité d’intermédiation"
+    },
+    {
+        "question": "La valeur actuelle d’un capital est :",
+        "option": ["Sa valeur nominale + les intérêts produits", "Sa valeur acquise + les intérêts produits", "Sa valeur nominale – les intérêts produits", "Sa valeur acquise – les intérêts produits"],
+        "correct": "Sa valeur nominale – les intérêts produits"
+    },
+    {
+        "question": "Dans le cadre des assurances emprunteurs, que signifie le sigle IPT ?",
+        "option": ["Invalidité permanente et totale", "Incapacité professionnelle totale", "Inaptitude professionnelle à travailler", "Incapacité partielle de travail"],
+        "correct": "Invalidité permanente et totale"
+    },
+    {
+        "question": "Le prix d’une couverture santé pour les 65 ans et plus varie selon :",
+        "option": ["Les prestations sociales reçues par l’assuré", "L’âge de l’assuré", "La profession de l’assuré", "L’état de santé de l’assuré"],
+        "correct": "L’âge de l’assuré"
+    },
+    {
+        "question": "La capacité d’une personne dépendante à effectuer des activités courantes est déterminée selon la :",
+        "option": ["Classification AVQ", "Grille AERAS", "Grille AGGIR", "Classification énoncée par le Ministère de la Santé"],
+        "correct": "Classification AVQ"
+    },
+    {
+        "question": "En plus de son contenu obligatoire, une police d’une assurance vie doit également indiquer :",
+        "option": ["La durée des engagements réciproques des parties et les conditions de la tacite reconduction", "Le nom et l’adresse des autorités chargées du contrôle de l’entreprise d’assurance en question", "La loi applicable au contrat lorsqu’il ne s’agit pas de la loi française", "L’adresse du siège social de l’assureur et de la succursale qui accorde la couverture"],
+        "correct": "L’adresse du siège social de l’assureur et de la succursale qui accorde la couverture"
+    },
+    {
+        "question": "En matière de déontologie, les assureurs de contrats collectifs santé et prévoyance s’engagent à :",
+        "option": ["À utiliser la mention “assurance dépendance” à titre provisoire, le cas échéant", "Couvrir les assurés, pour les contrats obligatoires, indépendamment de leur état de santé contrats obligatoires", "Respecter le code de bonne conduite annexé à la convention AERAS uniquement pour les contrats de prévoyance", "Faciliter la compréhension et le choix des garanties de santé proposées dans le contrat"],
+        "correct": "Couvrir les assurés, pour les contrats obligatoires, indépendamment de leur état de santé contrats obligatoires"
+    },
+    {
+        "question": "Les détenteurs d'un PEA bénéficient d’une exonération d’IR sur les plus-valuessous réserve :",
+        "option": ["De détenir le PEA pendant 2 à 5ans", "De détenir le PEA depuis plus de 5 ans", "D’envisager le PEA comme un placement en prévision de la retraite", "De modifier l’horizon de placement du PEA au cours du contrat"],
+        "correct": "De détenir le PEA depuis plus de 5 ans"
+    },
+    {
+        "question": "En principe, les polices d’assurance sont assorties d’un plafond de garantieillimité en ce qui concerne :",
+        "option": ["Les 3 propositions réunies", "Les dommages matériels", "Les dommages immatériels", "Les dommages corporels"],
+        "correct": "Les dommages corporels"
+    },
+    {
+        "question": "La Sécurité Sociale classe l’invalidité en :",
+        "option": ["3 catégories", "6 catégories", "4 catégories", "5 catégories"],
+        "correct": "3 catégories"
+    },
+    {
+        "question": "Un assuré a l’obligation de déclarer toute circonstance aggravante à son assureur au plus tard :",
+        "option": ["15 jours à partir du moment où il en a connaissance", "30 jours à partir du moment où il en a connaissance", "20 jours à partir du moment où il en a connaissance", "10 jours à partir du moment où il en a connaissance"],
+        "correct": "15 jours à partir du moment où il en a connaissance"
+    },
+    {
+        "question": "A travers ses différents supports et modes de gestion, l’assurance vie répond aux objectifs des investisseurs recherchant :",
+        "option": ["Une performance élevée uniquement", "Une performance élevée ou sécurisée", "Une performance sécurisée uniquement", "Un risque faible uniquement"],
+        "correct": "Une performance élevée ou sécurisée"
+    },
+    {
+        "question": "Si un assuré souhaite transformer son contrat de capitalisation en euros en un contrat multisupport, il doit s’assurer que les sommes affectées à des UC représentent :",
+        "option": ["Au moins 20% du total", "Entre 10% et 20% du total", "Au minimum 30% du total", "Moins de 10% du total"],
+        "correct": "Au moins 20% du total"
+    },
+    {
+        "question": "Le document normalisé d’information sur les produits d’assurance est requis par les contrats d’assurance :",
+        "option": ["Habitation", "Complémentaire santé collective", "Emprunteur de prêts immobiliers", "Garantissant les grands risques"],
+        "correct": "Garantissant les grands risques"
+    },
+    {
+        "question": "Les contrats d’assurance dépendance comportent généralement un délai de franchise fixé à :",
+        "option": ["30 jours à compter de la reconnaissance de l’état de dépendance", "1 an à compter de la date de souscription du contrat", "90 jours à compter de la reconnaissance de l’état de dépendance", "3 ans à compter de la date de souscription du contrat"],
+        "correct": "90 jours à compter de la reconnaissance de l’état de dépendance"
+    },
+    {
+        "question": "Quelle est la particularité des contrats responsables ?",
+        "option": ["Ils ne recueillent aucune information médicale", "Ils sont assujettis à la taxe sur les conventions d’assurance", "Ils respectent un cahier des charges fixé par décret", "Ils permettent d’automatiquement avoir un reste à charge de zéro"],
+        "correct": "Ils respectent un cahier des charges fixé par décret"
+    },
+    {
+        "question": "Dans le cadre d’une assurance multirisques habitation, l’assuré a l’obligation de déclarer un sinistre dans un délai maximum de :",
+        "option": ["10 jours à partir du moment où il en a connaissance", "15 jours à partir du moment où il en a connaissance", "2 jours à partir du moment où il en a connaissance", "5 jours à partir du moment où il en a connaissance"],
+        "correct": "5 jours à partir du moment où il en a connaissance"
+    },
+    {
+        "question": "La contribution économique territoriale est composé de :",
+        "option": ["La cotisation des particuliers pour le développement économique et la contribution foncière écologique", "La contribution sur le développement durable et la taxe sur le chiffre d’affaires", "La cotisation foncière des entreprises et la cotisation sur la valeur ajoutée des entreprises", "La contribution de performance énergétique et la cotisation foncières économique"],
+        "correct": "La cotisation foncière des entreprises et la cotisation sur la valeur ajoutée des entreprises"
+    },
+    {
+        "question": "En France, il existe un impôt sur :",
+        "option": ["La prévoyance", "La famille", "La dépense", "La protection sociale"],
+        "correct": "La dépense"
+    },
+    {
+        "question": "Dans le cadre d’un contrat d’assurance-vie :",
+        "option": ["L’avance diminue la valeur du contrat", "Le rachat partiel n’est pas neutre fiscalement", "L’avance entraîne une taxation", "Le rachat est possible pour les assurances décès temporaires"],
+        "correct": "Le rachat partiel n’est pas neutre fiscalement"
+    },
+    {
+        "question": "Parmi ces propositions, laquelle est correcte ?",
+        "option": ["Avant l’ouverture du PER puis chaque année, le titulaire du plan bénéficie d’une information détaillée", "Les droits inscrits sur le Compte Epargne Temps ne peuvent alimentés le PER", "Les versements volontaires sont obligatoires dans le cadre du PER", "Les sommes relatives à l’épargne salariale ne peuvent être déposées sur le Percol"],
+        "correct": "Avant l’ouverture du PER puis chaque année, le titulaire du plan bénéficie d’une information détaillée"
+    },
+    {
+        "question": "Le PEA :",
+        "option": ["Ne présente aucun risque de perte de capital", "Il a pour but d’inciter les épargnants à investir en obligations", "N’offre pas de rendement garanti", "N’est pas un instrument d’épargne défiscalisée"],
+        "correct": "N’offre pas de rendement garanti"
+    },
+    {
+        "question": "Le montant du dividende est fixé par :",
+        "option": ["L’investisseur de l’obligation", "L’assemblée générale annuelle des actionnaires", "Le président de la société émettrice", "L’AMF"],
+        "correct": "L’assemblée générale annuelle des actionnaires"
+    },
+    {
+        "question": "Les actions représentent :",
+        "option": ["Une part de la dette d’une entreprise", "Une part des actifs d’une entreprise", "Une part du capital d’une entreprise", "Une part des intérêts d’une entreprise"],
+        "correct": "Une part du capital d’une entreprise"
+    },
+    {
+        "question": "Dans le cadre de la transmission d’un PEA",
+        "option": ["Au décès du titulaire du plan, le PEA n’est pas clôturé", "Il est possible de le transmettre par testament", "Il est impossible de le transmettre par donation", "Au décès du titulaire du plan, les sommes figurant sur le PEA ne sont pas comprises dans l’actif successoral"],
+        "correct": "Il est impossible de le transmettre par donation"
+    },
+    {
+        "question": "Les notations des agences sont élaborées selon :",
+        "option": ["Le rendement et la taille des sociétés", "Le ratio performance/risque des sociétés", "La solidité et la stabilité financière des sociétés", "La cotation en bourse des sociétés"],
+        "correct": "La solidité et la stabilité financière des sociétés"
+    },
+    {
+        "question": "EURONEXT Paris SA est :",
+        "option": ["Une des valeurs composant le CAC 40", "Un indice représentatif des valeurs cotées à la Bourse de Paris", "Un indice de cotation des capitalisations moyennes", "La société qui gère la Bourse de Paris"],
+        "correct": "La société qui gère la Bourse de Paris"
+    },
+    {
+        "question": "En principe, le montant des garanties d’un contrat d’assurance de biens est fixé :",
+        "option": ["En fonction d’une expertise réalisée sur les biens à assurer", "Selon un tableau de garanties annexé aux conditions particulières dudit contrat", "Sur la base d’un indice annuel mis en place par la FFA", "Librement par l’assuré"],
+        "correct": "Selon un tableau de garanties annexé aux conditions particulières dudit contrat"
+    },
+    {
+        "question": "Dans le cadre de la classification des supports d’investissement, qu’est-ce que le rating ?",
+        "option": ["Le mode de gestion axé sur la maîtrise des risques", "Le rendement offert pour une action", "Le classement en matière de risque pour une obligation", "La mesure de sensibilité par rapport au marché"],
+        "correct": "Le classement en matière de risque pour une obligation"
+    },
+    {
+        "question": "Les SICAV sont des sociétés qui émettent :",
+        "option": ["Des actions", "Des obligations", "Des titres de créances", "Des certificats"],
+        "correct": "Des actions"
+    },
+    {
+        "question": "Dans le cadre de l’évaluation par les agences de notation:",
+        "option": ["La notation financière ne constitue pas un critère important dans l’estimation du risque que l’investissement comporte", "Le système de notation s’établit de A à D avec des échéances intermédiaires", "L’amélioration d’une note financière ne peut influer le cours d’un titre", "Les notes constituent des recommandations d’achat des titres"],
+        "correct": "Le système de notation s’établit de A à D avec des échéances intermédiaires"
+    },
+    {
+        "question": "Le droit de propriété peut être scindé en deux éléments :",
+        "option": ["l'immobilier / le mobilier", "le bâti / le non bâti", "l'usufruit / la nue propriété", "les fondations / le gros oeuvre"],
+        "correct": "l'usufruit / la nue propriété"
+    },
+    {
+        "question": "Dans le cadre de la fiscalité des parts d’OPCVM :",
+        "option": ["Les porteurs de parts des FCP et des SICAV ne sont pas imposables sur les revenus perçus", "Les SICAV et les FCP sont imposables sur les produits qu’ils encaissent", "Les OPCVM de distribution sont fiscalement transparentes", "Les revenus des OPCVM de capitalisation sont imposables dans la catégorie des traitements et salaires"],
+        "correct": "Les OPCVM de distribution sont fiscalement transparentes"
+    },
+    {
+        "question": "Le PACS doit faire l’objet :",
+        "option": ["D’une enquête auprès de la mairie du lieu de la résidence commune", "D’une enquête auprès du Tribunal d’Instance du lieu de la résidence commune", "D’une déclaration auprès du Tribunal d’Instance du lieu de la résidence commune", "D’une déclaration auprès de la mairie du lieu de la résidence commune"],
+        "correct": "D’une déclaration auprès de la mairie du lieu de la résidence commune"
+    },
+    {
+        "question": "Dans le cadre de la dévolution légale, lorsque le défunt laisse des enfants mais pas de conjoint survivant :",
+        "option": ["Les enfants du défunt héritent de tout en démembrement", "Les enfants du défunt héritent de tout en pleine propriété", "Les enfants du défunt héritent de tout en nue-propriété", "Les enfants du défunt héritent de tout en usufruit"],
+        "correct": "Les enfants du défunt héritent de tout en pleine propriété"
+    },
+    {
+        "question": "Dans le cadre des régimes complémentaires obligatoires, la retraite est calculée :",
+        "option": ["sur la base de points accumulés", "sur la base du dernier revenu", "sur la base d’unités de compte accumulées", "sur la base d’un nombre de trimestres cotisés"],
+        "correct": "sur la base de points accumulés"
+    },
+    {
+        "question": "Mlle Mathilde veut déposer 200 € sur son livret A. A quelle date est-il préférable qu’elle effectue son versement ?",
+        "option": ["Le 7 juin", "Le 2 juin", "Le 15 juin", "Le 25 juin"],
+        "correct": "Le 2 juin"
+    },
+    {
+        "question": "En matière de déclaration de risque, l’apparition de conséquences nouvelles et aggravantes :",
+        "option": ["Contraint l’assureur à créer un nouveau contrat", "Augmente la valeur de l’intérêt assuré", "A une incidence financière sur l’assureur", "Oblige l’assureur à résilier le contrat quelle que soit l’intensité du nouveau risque"],
+        "correct": "A une incidence financière sur l’assureur"
+    },
+    {
+        "question": "Dans le cadre d’une déclaration de soupçon :",
+        "option": ["Les informations reçues par Tracfin dans le cadre d’une déclaration de soupçon sont conservées pendant 15 ans", "Tracfin a la possibilité de mettre en œuvre son pouvoir d’opposition 72H après la réception de la déclaration", "En principe, la déclaration de soupçon est réalisée préalablement à l’opération", "Dans le cadre de la réception de soupçon reçue par Tracfin, celle-ci fait l’objet d’un séquestre"],
+        "correct": "En principe, la déclaration de soupçon est réalisée préalablement à l’opération"
+    },
+    {
+        "question": "La TVA est un impôt payé par le contribuable mais il n’est pas considéré comme en étant le redevable, car il s’agit d’un impôt :",
+        "option": ["Qui concerne peu de biens ou services", "Qu’il refacture aux entreprises de production des biens ou services", "Qui lui est remboursé", "Indirect"],
+        "correct": "Indirect"
+    },
+    {
+        "question": "Comment est calculé la valeur nominale d’une action ?",
+        "option": ["Montant du dividende / nombre d’actions", "Montant du coupon / montant du capital de la société", "Montant du nombre d’effectif de salariés dans l’entreprise / montant du capital de la société", "Montant du capital de la société / nombre d’actions"],
+        "correct": "Montant du capital de la société / nombre d’actions"
+    },
+    {
+        "question": "Dans le cadre d’une plus-value de cession d’obligations, quelle fiscalité est applicable pour des titres acquis postérieurement au 1er janvier 2018 ?",
+        "option": ["Elles sont soumises au prélèvement forfaitaire unique de 24%", "Elles sont soumises au prélèvement forfaitaire unique de 21%", "Elles sont imposables au prélèvement forfaitaire unique de 30% ou option pour le barème progressif de l'IR sans abattement de détention", "Elles sont imposables au prélèvement forfaitaire unique de 30% ou option pour le barème progressif de l'IR avec abattement de détention"],
+        "correct": "Elles sont imposables au prélèvement forfaitaire unique de 30% ou option pour le barème progressif de l'IR sans abattement de détention"
+    },
+    {
+        "question": "Le marché financier est constitué :",
+        "option": ["D’un marché primaire et d’un marché couvert", "D’un marché primaire et d’un marché élémentaire", "D’un marché primaire et d’un marché fiduciaire", "D’un marché primaire et d’un marché secondaire"],
+        "correct": "D’un marché primaire et d’un marché secondaire"
+    },
+    {
+        "question": "La Loi Pacte a pour objectif :",
+        "option": ["La suppression de la transférabilité des contrats d’épargne", "Le durcissement des conditions de sortie pour les produits d’épargne", "L’ uniformisation des règles de fonctionnement des plans d’épargne retraite", "La généralisation de la gestion libre dans le cadre des produits d’épargne"],
+        "correct": "L’ uniformisation des règles de fonctionnement des plans d’épargne retraite"
+    },
+    {
+        "question": "La communication au public d’informations mensongères peut être punie:",
+        "option": ["Moralement", "Verbalement", "Pénalement", "Civilement"],
+        "correct": "Pénalement"
+    },
+    {
+        "question": "L’assurance en cas de décès « vie entière » :",
+        "option": ["Est une assurance à fonds perdus puisque le risque couvert peut ne pas se réaliser", "Permet de couvrir le risque décès pendant une période déterminée", "Peut être utilisée pour couvrir un risque pendant la durée d’un emprunt", "N’est pas une assurance à fonds perdus puisque le risque couvert se réalisera obligatoirement"],
+        "correct": "N’est pas une assurance à fonds perdus puisque le risque couvert se réalisera obligatoirement"
+    },
+    {
+        "question": "Quelles sont les 3 dimensions prises en compte dans le cadre de mathématiques financières ?",
+        "option": ["Le temps – l’argent et le taux d’intérêt", "L’argent – le profil de l’investisseur et le foyer fiscal", "L’âge – le temps et le foyer fiscal", "Le profil de l’investisseur – le temps et le taux d’intérêt"],
+        "correct": "Le temps – l’argent et le taux d’intérêt"
+    },
+    {
+        "question": "La Sécurité Sociale classe l’invalidité en :",
+        "option": ["3 catégories", "6 catégories", "4 catégories", "5 catégories"],
+        "correct": "3 catégories"
+    },
+    {
+        "question": "Dans le cadre d’une clause bénéficiaire démembrée, l’abattement dont bénéficie l’usufruitier est de :",
+        "option": ["152 500€", "85 700€", "102 000€", "50 500€"],
+        "correct": "152 500€"
+    },
+    {
+        "question": "Pendant la phase d'épargne du PERP :",
+        "option": ["Le plafond de déduction des versements effectués qui n’a pas été totalement consommé est définitivement perdu", "Le contribuable ne peut pas cumuler le plafond de déduction de l’année en cours et les plafonds des 3 années précédentes non utilisés", "La valeur de capitalisation des rentes doit être déclarée à l’IFI", "Les prélèvements sociaux ne sont pas dus"],
+        "correct": "Les prélèvements sociaux ne sont pas dus"
+    },
+    {
+        "question": "Quel type de garantie complémentaire peut être associée à un contrat Madelin ?",
+        "option": ["Incapacité", "Garantie des accidents de la vie", "Assistance", "Mutation professionnelle"],
+        "correct": "Incapacité"
+    },
+    {
+        "question": "Les sommes d’un PEP bancaire sont affectées à :",
+        "option": ["Un contrat d’assurance vie", "Un compte de dépôt rémunéré", "Un contrat de capitalisation", "Un compte titres ordinaire"],
+        "correct": "Un compte de dépôt rémunéré"
+    },
+    {
+        "question": "Quels titres peuvent figurer sur un PEA ?",
+        "option": ["Les titres démembrés", "Les actions à l’exclusion des actions de préférence", "Les obligations", "Les titres détenus dans le cadre de l’épargne salariale"],
+        "correct": "Les actions à l’exclusion des actions de préférence"
+    },
+    {
+        "question": "Dans le cadre du fonctionnement du contrat de capitalisation :",
+        "option": ["Un rachat partiel est impossible", "La possibilité d’une avance n’a pas à être prévue dans le contrat", "L’avance est imposable et diminue la valeur du contrat", "Les fonds peuvent être investis en euros et en unités de compte"],
+        "correct": "Les fonds peuvent être investis en euros et en unités de compte"
+    },
+    {
+        "question": "Le rachat partiel d'un contrat d'assurance vie permet au souscripteur :",
+        "option": ["De mettre fin au contrat", "De recevoir l’épargne acquise", "De recevoir une fraction des primes versées et une fraction de l’épargne acquise", "De recevoir une fraction des primes versées"],
+        "correct": "De recevoir une fraction des primes versées et une fraction de l’épargne acquise"
+    },
+    {
+        "question": "Le taux minimum garanti des contrats en Euros est :",
+        "option": ["Inférieur ou égal à taux d’intérêt technique + participation aux bénéfices", "Egal à taux d’intérêt technique + participation aux bénéfices", "Supérieur ou égal à taux d’intérêt technique + participation aux bénéfices", "Supérieur ou égal au taux d’intérêt technique"],
+        "correct": "Supérieur ou égal à taux d’intérêt technique + participation aux bénéfices"
+    },
+    {
+        "question": "Dans le cadre d’une assurance multirisques habitation, l’assuré a l’obligation de déclarer un sinistre dans un délai maximum de :",
+        "option": ["10 jours à partir du moment où il en a connaissance", "15 jours à partir du moment où il en a connaissance", "2 jours à partir du moment où il en a connaissance", "5 jours à partir du moment où il en a connaissance"],
+        "correct": "5 jours à partir du moment où il en a connaissance"
+    },
+    {
+        "question": "Le PEA :",
+        "option": ["Ne présente aucun risque de perte de capital", "Il a pour but d’inciter les épargnants à investir en obligations", "N’offre pas de rendement garanti", "N’est pas un instrument d’épargne défiscalisée"],
+        "correct": "N’offre pas de rendement garanti"
+    },
+    {
+        "question": "Tout retrait ou rachat d’un PEA effectué après 8 ans de détention :",
+        "option": ["Est exonéré d'impôt sur le revenu et de prélèvements sociaux mais entraîne la clôture du PEA", "Est exonéré d'impôt sur le revenu et de prélèvements sociaux", "Est exonéré d'impôt sur le revenu et n'entraîne pas la clôture du PEA", "Est exonéré d'impôt sur le revenu et entraine la clôture du PEA"],
+        "correct": "Est exonéré d'impôt sur le revenu et n'entraîne pas la clôture du PEA"
+    },
+    {
+        "question": "Dans le cadre des actions :",
+        "option": ["Les actions sont des valeurs immobilières émises par des sociétés de capitaux", "La valeur nominale d’une action correspond à la valeur à laquelle a été émise l’action", "Seules les sociétés anonymes peuvent émettent des actions", "Les actions confèrent à leur titulaire un droit de créance sur l’entreprise"],
+        "correct": "La valeur nominale d’une action correspond à la valeur à laquelle a été émise l’action"
+    },
+    {
+        "question": "Dans le cadre des différents modes de gestion de portefeuille :",
+        "option": ["La gestion déléguée autorise un établissement à gérer les actifs en fonction du profil demandé par le client", "La gestion collective permet d’acquérir des titres en direct sur les marchés boursiers", "La gestion assistée est le fait qu’un épargnant puisse investir en Bourse indirectement par l’acquisition de parts d’OCPVM", "La gestion libre constitue un mode de gestion de portefeuille"],
+        "correct": "La gestion libre constitue un mode de gestion de portefeuille"
+    },
+    {
+        "question": "Dans le domaine de la finance, un portefeuille désigne :",
+        "option": ["La quote-part de revenus mensuels qu’un particulier peut investir sur les marchés boursiers", "Le montant quotidien moyen investi en bourse par individu", "Le nombre de transactions financières quotidiennes au sein du CAC40", "Un ensemble d'actifs financiers détenus par un établissement ou un individu"],
+        "correct": "Un ensemble d'actifs financiers détenus par un établissement ou un individu"
+    },
+    {
+        "question": "Le système français des retraites « par répartition » :",
+        "option": ["Ne permet qu’aux personnes dans le besoin d’en bénéficier", "Repose sur un principe de solidarité intergénérationnelle", "Signifie que chaque personne cotise pour sa propre retraite uniquement", "Permet à chaque retraité d’avoir un minimum de retraite égal au SMIC"],
+        "correct": "Repose sur un principe de solidarité intergénérationnelle"
+    },
+    {
+        "question": "Les coupons désignent :",
+        "option": ["Les liquidités issues de la vente de parts d’une société", "La part des bénéfices d’une entreprise revenant aux actionnaires", "La rémunération fixe du PDG d’une entreprise", "Les intérêts perçus par une personne ayant investi dans des obligations"],
+        "correct": "Les intérêts perçus par une personne ayant investi dans des obligations"
+    },
+    {
+        "question": "Quel régime matrimonial permet de créer une masse de biens indivis entre époux ?",
+        "option": ["La communauté de meubles et d’acquêts", "La séparation de biens avec participation aux acquêts", "La participation aux acquêts avec communauté patrimoniale", "La communauté réduite aux acquêts"],
+        "correct": "La séparation de biens avec participation aux acquêts"
+    },
+    {
+        "question": "Les solutions d'épargne présentant la plus grande sécurité et liquidité sont :",
+        "option": ["Les livrets réglementés", "Les actions", "Les OPCVM", "Les biens immobiliers"],
+        "correct": "Les livrets réglementés"
+    },
+    {
+        "question": "Pour les personnes nées à partir du 1er janvier 1968 et ayant validé tous leurs trimestres, quel est l’âge légal de départ à la retraite ?",
+        "option": ["62 ans", "60 ans", "64 ans", "67 ans"],
+        "correct": "64 ans"
+    },
+    {
+        "question": "En cas de décès du titulaire d’un contrat de capitalisation, le contrat :",
+        "option": ["Est transmis en fonction de la clause bénéficiaire", "Est transmis à ses héritiers, sans être clôturé", "Est clôturé uniquement si le contrat a plus de 8 ans", "Est clôturé, puis transmis à ses héritiers"],
+        "correct": "Est transmis à ses héritiers, sans être clôturé"
+    },
+    {
+        "question": "Le PEA est :",
+        "option": ["Un produit structuré", "Un livret réglementé défiscalisé", "Un contrat d’assurance", "Un support d’épargne défiscalisé investi en actions"],
+        "correct": "Un support d’épargne défiscalisé investi en actions"
+    },
+    {
+        "question": "Les dividendes désignent :",
+        "option": ["La part des bénéfices d’une entreprise revenant aux actionnaires", "La rémunération fixe du PDG d’une entreprise", "Les liquidités issues de la vente de parts d’une société", "Les intérêts perçus par une personne ayant investi dans des obligations"],
+        "correct": "La part des bénéfices d’une entreprise revenant aux actionnaires"
+    },
+    {
+        "question": "Dans le cadre de la séparation de biens, chaque époux peut librement disposer :",
+        "option": ["De ses biens personnels et de ceux de son conjoint", "De tous ses biens personnels", "De ses biens personnels et des biens indivis", "De ses biens personnels, à l’exception du logement familial"],
+        "correct": "De ses biens personnels, à l’exception du logement familial"
+    },
+    {
+        "question": "Dans le cadre de la souscription d’un contrat d’assurance-vie en gestion profilée, les différents profils d’investisseurs sont :",
+        "option": ["Débutant, expérimenté, expert ou professionnel", "Passif, intermédiaire, innovant ou stratégique", "Prudent, équilibre, dynamique ou offensif", "Basique, équilibré, avancé ou expert"],
+        "correct": "Prudent, équilibre, dynamique ou offensif"
+    },
+    {
+        "question": "Un barème progressif s’applique dans le cadre :",
+        "option": ["Du prélèvement forfaitaire libératoire", "De l’impôt sur le revenu des personnes physiques", "De la TVA", "De l’impôt sur les sociétés"],
+        "correct": "De l’impôt sur le revenu des personnes physiques"
+    },
+    {
+        "question": "Dans le cadre de l’assurance-vie, les bénéficiaires en cas de décès sont désignés par :",
+        "option": ["Le souscripteur", "La sécurité sociale", "L’assuré", "L'assureur"],
+        "correct": "Le souscripteur"
+    },
+    {
+        "question": "Dans le cadre d’un régime de communauté, un bien immobilier acheté au cours du mariage par l’un des époux avec son salaire est réputé être un bien :",
+        "option": ["Commun", "Divis", "Propre", "Indivis"],
+        "correct": "Commun"
+    },
+    {
+        "question": "Tous les 15 ans, je peux donner à chacun de mes enfants sans qu’ils soient taxés :",
+        "option": ["60 000 €", "100 000 €", "50 000 €", "152 500€"],
+        "correct": "100 000 €"
+    },
+    {
+        "question": "Un particulier détenant des actions est susceptible d’être imposé :",
+        "option": ["Lors de l’achat de ses actions", "Lors de la perception de dividendes ou de la vente de ses actions", "Lors de la perception de dividendes uniquement", "Lors de l’achat ou de la vente de ses actions"],
+        "correct": "Lors de la perception de dividendes ou de la vente de ses actions"
+    },
+    {
+        "question": "La fiscalité d’un contrat d’assurance-vie en cas de décès :",
+        "option": ["Dépend de l’âge du souscripteur au jour du décès de l'assuré", "Dépend de l’âge des bénéficiaires au jour de la souscription", "Dépend de l’âge des bénéficiaires au jour du décès", "Dépend de la date de souscription du contrat ainsi que de l’âge de l’assuré au moment du versement des primes"],
+        "correct": "Dépend de la date de souscription du contrat ainsi que de l’âge de l’assuré au moment du versement des primes"
+    },
+    {
+        "question": "Un PEA peut être ouvert :",
+        "option": ["Auprès d’un établissement bancaire uniquement", "Auprès d’une compagnie d’assurance ou d’un établissement bancaire", "Auprès d’une association à but non lucratif uniquement", "Auprès d’une compagnie d’assurance uniquement"],
+        "correct": "Auprès d’une compagnie d’assurance ou d’un établissement bancaire"
+    },
+    {
+        "question": "Dans le cadre d’un contrat d’assurance-vie, le rachat peut être réalisé par :",
+        "option": ["Le souscripteur, l’assuré ou les bénéficiaires", "Les bénéficiaires uniquement", "Le souscripteur ou ses héritiers", "Le souscripteur uniquement"],
+        "correct": "Le souscripteur uniquement"
+    },
+    {
+        "question": "Le contrat Madelin était réservé :",
+        "option": ["Aux personnes retraitées", "Aux fonctionnaires", "Aux personnes qui exercent une activité professionnelle salariée", "Aux personnes qui exercent une activité professionnelle non salariée"],
+        "correct": "Aux personnes qui exercent une activité professionnelle non salariée"
+    }
 ]

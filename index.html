@@ -196,6 +196,10 @@
                 questionsPool = await response.json();
                 console.log('Questions chargées avec succès.');
                 document.getElementById('question-count').textContent = `Nombre de questions disponibles : ${questionsPool.length}`;
+                
+                // Correction: Mettre à jour l'attribut max ici
+                document.getElementById('num-questions').setAttribute('max', questionsPool.length);
+
             } catch (error) {
                 console.error('Erreur lors du chargement des questions:', error);
                 document.body.innerHTML = '<h1>Erreur de chargement</h1><p>Impossible de charger les questions. Vérifiez que le fichier questions.json est bien présent.</p>';
@@ -205,15 +209,16 @@
         fetchQuestions();
 
         function startQuiz() {
-            // Ajout d'une vérification pour s'assurer que les questions sont chargées
+            // Vérification pour s'assurer que les questions sont chargées
             if (questionsPool.length === 0) {
                 alert("Les questions ne sont pas encore chargées. Veuillez patienter ou vérifier le fichier questions.json.");
                 return;
             }
 
             const numQuestions = parseInt(document.getElementById('num-questions').value);
-            if (numQuestions > 50 || numQuestions <= 0 || isNaN(numQuestions)) {
-                alert('Veuillez entrer un nombre de questions valide (1-50).');
+            const maxQuestions = questionsPool.length;
+            if (numQuestions > maxQuestions || numQuestions <= 0 || isNaN(numQuestions)) {
+                alert(`Veuillez entrer un nombre de questions valide (1-${maxQuestions}).`);
                 return;
             }
 

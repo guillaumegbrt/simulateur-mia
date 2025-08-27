@@ -571,16 +571,6 @@
     "correct": "Le domicile de l'assuré"
   },
   {
-    "question": "Pour faire sa demande de capital en cas de décès de l'assuré, un bénéficiaire non prioritaire dispose d'un délai:",
-    "option": [
-      "De la caisse nationale de solidarité pour l'autonomie",
-      "De l'État",
-      "De la caisse primaire d'assurance maladie",
-      "De la fédération française d'assurances"
-    ],
-    "correct": "De la caisse primaire d'assurance maladie"
-  },
-  {
     "question": "Une assurance emprunteur protège",
     "option": [
       "Uniquement le bénéficiaire",

@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulateur QCM Assurance Niveau II</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary-color: #4A90E2;
+            --secondary-color: #50E3C2;
+            --background-color: #F0F4F8;
+            --card-background: #FFFFFF;
+            --text-color: #333333;
+            --shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: var(--background-color);
+            color: var(--text-color);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            width: 100%;
+            max-width: 800px;
+            background-color: var(--card-background);
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: var(--shadow);
+            text-align: center;
+        }
+        h1 {
+            color: var(--primary-color);
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        h2 {
+            color: var(--text-color);
+            margin-top: 20px;
+            font-size: 1.8em;
+        }
+        .intro {
+            font-size: 1.1em;
+            margin-bottom: 20px;
+            line-height: 1.6;
+        }
+        #quiz-form, #results {
+            display: none;
+        }
+        .input-group {
+            margin-bottom: 25px;
+        }
+        #num-questions {
+            width: 80px;
+            padding: 10px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            text-align: center;
+        }
+        .btn {
+            background-color: var(--primary-color);
+            color: white;
+            padding: 12px 25px;
+            border: none;
+            border-radius: 8px;
+            font-size: 1em;
+            cursor: pointer;
+            transition: background-color 0.3s ease, transform 0.2s ease;
+        }
+        .btn:hover {
+            background-color: #3A72C1;
+            transform: translateY(-2px);
+        }
+        .question-card {
+            background-color: #F8F8F8;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            text-align: left;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+        }
+        .options-list {
+            list-style: none;
+            padding: 0;
+            margin-top: 15px;
+        }
+        .options-list li {
+            margin-bottom: 10px;
+        }
+        .option-label {
+            display: block;
+            background-color: #E8F0FE;
+            padding: 15px;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background-color 0.2s ease;
+        }
+        .option-label:hover {
+            background-color: #D3E0F6;
+        }
+        input[type="radio"] {
+            display: none;
+        }
+        input[type="radio"]:checked + .option-label {
+            background-color: var(--primary-color);
+            color: white;
+            font-weight: 600;
+        }
+        #wrong-answers .card {
+            border: 1px solid #E2E2E2;
+            border-left: 5px solid #E57373;
+            margin-top: 20px;
+            text-align: left;
+        }
+        .wrong-answer-card {
+            background-color: #FDECEA;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+            text-align: left;
+            border-left: 5px solid #E57373;
+        }
+        .correct-answer-card {
+            background-color: #E0F2F1;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+            text-align: left;
+            border-left: 5px solid #81C784;
+        }
+        .wrong {
+            color: #D32F2F;
+            font-weight: bold;
+        }
+        .correct {
+            color: #388E3C;
+            font-weight: bold;
+        }
+        .score-display {
+            font-size: 1.5em;
+            font-weight: 600;
+            margin: 20px 0;
+        }
+        .score-display .score-number {
+            color: var(--primary-color);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Simulateur QCM d'entraînement</h1>
+        <p class="intro">Testez vos connaissances sur l'assurance avec ce quiz interactif. Choisissez le nombre de questions et c'est parti !</p>
+
+        <div class="input-group">
+            <label for="num-questions">Entrez le nombre de questions (max 50) :</label>
+            <input type="number" id="num-questions" min="1" max="50" value="10">
+        </div>
+        <button class="btn" onclick="startQuiz()">Commencer le QCM</button>
+
+        <form id="quiz-form">
+            <div id="questions"></div>
+            <button type="button" class="btn" onclick="submitQuiz()">Soumettre</button>
+        </form>
+
+        <div id="results">
+            <h2>Résultats</h2>
+            <div class="score-display">
+                Nombre de bonnes réponses: <span class="score-number" id="score"></span>
+            </div>
+            <div class="score-display">
+                Pourcentage de réussite: <span class="score-number" id="percentage"></span>%
+            </div>
+            <h3>Réponses erronées:</h3>
+            <div id="wrong-answers"></div>
+            <button class="btn" onclick="restartQuiz()">Recommencer</button>
+        </div>
+    </div>
+
+    <script>
+        let questionsPool = [];
+        let selectedQuestions = [];
+        let userAnswers = [];
+
+        // Fonction pour charger les questions à partir du fichier JSON
+        async function fetchQuestions() {
+            try {
+                const response = await fetch('questions.json');
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                questionsPool = await response.json();
+                console.log('Questions chargées avec succès.');
+            } catch (error) {
+                console.error('Erreur lors du chargement des questions:', error);
+                document.body.innerHTML = '<h1>Erreur de chargement</h1><p>Impossible de charger les questions. Vérifiez que le fichier questions.json est bien présent.</p>';
+            }
+        }
+
+        // Appel initial pour charger les questions
+        fetchQuestions();
+
+        function startQuiz() {
+            const numQuestions = parseInt(document.getElementById('num-questions').value);
+            if (numQuestions > 50 || numQuestions <= 0 || isNaN(numQuestions)) {
+                alert('Veuillez entrer un nombre de questions valide (1-50).');
+                return;
+            }
+
+            userAnswers = [];
+            selectedQuestions = [];
+
+            // Mélanger et sélectionner les questions
+            const shuffled = [...questionsPool].sort(() => 0.5 - Math.random());
+            selectedQuestions = shuffled.slice(0, numQuestions);
+
+            const questionsContainer = document.getElementById('questions');
+            questionsContainer.innerHTML = '';
+            
+            selectedQuestions.forEach((q, index) => {
+                const qDiv = document.createElement('div');
+                qDiv.classList.add('question-card');
+                qDiv.innerHTML = `<h3>${index + 1}. ${q.question}</h3>
+                                 <ul class="options-list">
+                                     ${q.options.map((option, i) => `
+                                         <li>
+                                             <input type="radio" id="q${index}-option${i}" name="q${index}" value="${option}">
+                                             <label for="q${index}-option${i}" class="option-label">${option}</label>
+                                         </li>
+                                     `).join('')}
+                                 </ul>`;
+                questionsContainer.appendChild(qDiv);
+            });
+
+            document.getElementById('quiz-form').style.display = 'block';
+            document.getElementById('results').style.display = 'none';
+        }
+
+        function submitQuiz() {
+            let score = 0;
+            userAnswers = [];
+            selectedQuestions.forEach((q, index) => {
+                const selectedOption = document.querySelector(`input[name="q${index}"]:checked`);
+                const userAnswer = selectedOption ? selectedOption.value : null;
+                userAnswers.push(userAnswer);
+
+                if (userAnswer === q.correct) {
+                    score++;
+                }
+            });
+
+            document.getElementById('quiz-form').style.display = 'none';
+            document.getElementById('results').style.display = 'block';
+            document.getElementById('score').textContent = score + ' / ' + selectedQuestions.length;
+            document.getElementById('percentage').textContent = ((score / selectedQuestions.length) * 100).toFixed(2);
+
+            const wrongContainer = document.getElementById('wrong-answers');
+            wrongContainer.innerHTML = '';
+            selectedQuestions.forEach((q, index) => {
+                if (userAnswers[index] !== q.correct) {
+                    const div = document.createElement('div');
+                    div.classList.add('wrong-answer-card');
+                    div.innerHTML = `<p><strong>Question:</strong> ${q.question}</p>
+                                     <p><strong>Votre réponse:</strong> <span class="wrong">${userAnswers[index] || 'Aucune'}</span></p>
+                                     <p><strong>Réponse correcte:</strong> <span class="correct">${q.correct}</span></p>`;
+                    wrongContainer.appendChild(div);
+                }
+            });
+        }
+
+        function restartQuiz() {
+            document.getElementById('results').style.display = 'none';
+            document.getElementById('quiz-form').style.display = 'none';
+            userAnswers = [];
+            selectedQuestions = [];
+            document.getElementById('num-questions').value = 10;
+        }
+    </script>
+</body>
+</html>

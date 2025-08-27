@@ -1746,11 +1746,6 @@
         "correct": "Supérieur ou égal à taux d’intérêt technique + participation aux bénéfices"
     },
     {
-        "question": "Dans le cadre d’une assurance multirisques habitation, l’assuré a l’obligation de déclarer un sinistre dans un délai maximum de :",
-        "option": ["10 jours à partir du moment où il en a connaissance", "15 jours à partir du moment où il en a connaissance", "2 jours à partir du moment où il en a connaissance", "5 jours à partir du moment où il en a connaissance"],
-        "correct": "5 jours à partir du moment où il en a connaissance"
-    },
-    {
         "question": "Le PEA :",
         "option": ["Ne présente aucun risque de perte de capital", "Il a pour but d’inciter les épargnants à investir en obligations", "N’offre pas de rendement garanti", "N’est pas un instrument d’épargne défiscalisée"],
         "correct": "N’offre pas de rendement garanti"

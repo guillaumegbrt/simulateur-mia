@@ -1864,5 +1864,95 @@
         "question": "Le contrat Madelin était réservé :",
         "option": ["Aux personnes retraitées", "Aux fonctionnaires", "Aux personnes qui exercent une activité professionnelle salariée", "Aux personnes qui exercent une activité professionnelle non salariée"],
         "correct": "Aux personnes qui exercent une activité professionnelle non salariée"
+    },
+    {
+        "question": "Parmis ces impôts, lequel constitue un impôt direct ?",
+        "option": ["L'Impôt sur le Revenu", "Les droits de douane", "La taxe sur les produits pétroliers", "La TVA"],
+        "correct": "L'Impôt sur le Revenu"
+    },
+    {
+        "question": "Quelle est la principale base d'imposition des impôts locaux en France ?",
+        "option": ["Le revenu annuel des propriétaires", "La valeur de marché des biens immobiliers", "La valeur locative cadastrale", "Le prix d'achat des biens immobiliers"],
+        "correct": "La valeur locative cadastrale"
+    },
+    {
+        "question": "Qu'est-ce que le risque de change ?",
+        "option": ["Le risque encouru par le détenteur d'une obligation à taux fixe de subir une variation d eprix d l'obligation", "Le risque global de perte du capital entre le moment d'achat de l'actif et le moment de la revente", "Le risque financier résultant de l'incapacité pour l'emprunteur de rembourser sa dette", "Le risque de perte lié aux fluctuations des cours de monnaie"],
+        "correct": "Le risque de perte lié aux fluctuations des cours de monnaie"
+    },
+    {
+        "question": "Le Price Earning Ratio permet de comparer :",
+        "option": ["Différentes actions de secteurs d'activité différents afin de déterminer la plus rentable", "Différentes obligations d'un même secteur d'activité afin de déterminer la plus rentable", "Différentes actions de sociétés d'un même secteur d'activité afin de déterminer la plus rentable", "Différentes SICAV d'un même secteur d'activité afin de déterminer la plus rentable"],
+        "correct": "Différentes actions de sociétés d'un même secteur d'activité afin de déterminer la plus rentable"
+    },
+    {
+        "question": "Dans le cadre d'une clause bénéficiaire démembrée, l'abattement de 152 500€:",
+        "option": ["Est exclusivement applicable sur la quote-part reçue par le nu-propriétaire", "N'est pas applicable", "Est réparti entre l'usufruitier et le nu-propriétaire", "Est exclusivement applicable sur la quote-part reçue par l'usufruitier"],
+        "correct": "Est réparti entre l'usufruitier et le nu-propriétaire"
+    },
+    {
+        "question": "Les versements volontaires effectués l'année N sur un PER sont déductibles dans la limite du montant le plus élevé entre 10% du PASS et :",
+        "option": ["10% des revenus nets de frais professionnels de l'année N", "12% des revenus nets de frais professionnels de l'année N", "12% des revenus nets de frais professionnels de l'année N-1", "10% des revenus nets de frais professionnels de l'année N-1"],
+        "correct": "10% des revenus nets de frais professionnels de l'année N-1"
+    },
+    {
+        "question": "Le D.I.C est remis obligatoirement :",
+        "option": ["Avec la situation de compte annuelle", "A la signature du contrat", "Avant la conclusion du contrat", "Après la conclusion du contrat"],
+        "correct": "Avant la conclusion du contrat"
+    },
+    {
+        "question": "L'Assurance Vie comporte 3 grandes catégories :",
+        "option": ["L'assurance en cas de Décès, l'Assurance Emprunteur et l'Assurance Dommage", "L'Assurance en cas de Vie, L'assurance en cas de Décès et l'Assurance en cas de Dépendance", "L'Assurance en cas de Vie, la capitalisation et l'Assurance Santé", "L'Assurance en cas de Vie, l'Assurance en cas de Décès et l'Assurance Mixte"],
+        "correct": "L'Assurance en cas de Vie, l'Assurance en cas de Décès et l'Assurance Mixte"
+    },
+    {
+        "question": "L'abattement en matière de succession entre époux est de :",
+        "option": ["150 000€", "Sans objet", "50 000€", "75 000€"],
+        "correct": "Sans objet"
+    },
+    {
+        "question": "Une obligation se définit comme :",
+        "option": ["Un titre de propriété", "Un instrumentfinancier à terme", "Un titre de copropriété de société", "Un titre de créance négociable"],
+        "correct": "Un titre de créance négociable"
+    },
+    {
+        "question": "Lorsque l'usufruit porte sur une chose consomptible, l'usufruit est dénommé :",
+        "option": ["Le quasi-usufruit", "Le demi-usufruit", "Le porte-usufruit", "Le presque-usufruit"],
+        "correct": "Le quasi-usufruit"
+    },
+    {
+        "question": "Un contrat « monosupport » est un contrat dont :",
+        "option": ["Le support unique est une unité de compte", "Le support unique est un fonds Euros", "Les supports sont uniquement des fonds Euros", "Les supports sont uniquement des unités de compte"],
+        "correct": "Le support unique est un fonds Euros"
+    },
+    {
+        "question": "Les contrats d'assurance vie :",
+        "option": ["Ont une durée légale de 10 ans maximum", "Ont une durée légale de 5 ans, prorogeable par tacite reconduction", "Ont une durée légale de 8 ans", "N'ont pas de durée légale"],
+        "correct": "N'ont pas de durée légale"
+    },
+    {
+        "question": "Dans le cadre d'un contrat d'assuranc-vie, le caractère de primes manifestement exagérées s'apprécie au moment :",
+        "option": ["Du versement des primes par l'assuré", "De l'ouverture de la succession", "De l'ouverture du contrat par l'assuré", "Du décès de l'assuré"],
+        "correct": "Du versement des primes par l'assuré"
+    },
+    {
+        "question": "Les contrats de capitalisation sont assimilés à :",
+        "option": ["Des produits de placement à moyen ou long terme", "Des livrets bancaires", "Des contrats d'assurance", "Des instruments financiers"],
+        "correct": "Des produits de placement à moyen ou long terme"
+    },
+    {
+        "question": "Un PEA bancaire est composé :",
+        "option": ["D'un compte rémunéré et d'un compte titres", "D'un compte en espèces et d'un compte titres", "D'un compte sur livret et d'un compte titres", "D'un compte à terme et d'un compte titres"],
+        "correct": "D'un compte en espèces et d'un compte titres"
+    },
+    {
+        "question": "Un contrat d'assurance-vie peut être défini comme :",
+        "option": ["Un contrat commutatif dont l'exécution est liée à la durée de la vie humaine", "Un contrat aléatoire dont l'exécution est liée à la durée de la vie humaine", "Un contrat aléatoire dont l'exécution est liée à l'évolution des marchés financiers", "Un contrat commutatif dont l'exécution est liée à l'évolution des marchés financiers"],
+        "correct": "Un contrat aléatoire dont l'exécution est liée à la durée de la vie humaine"
+    },
+    {
+        "question": "Les supports monétaires sont constitués par :",
+        "option": ["Des valeurs de produits structurés", "Des valeurs à court terme", "Des valeurs risquées", "Des valeurs à long terme"],
+        "correct": "Des valeurs à court terme"
     }
 ]
